@@ -23,9 +23,7 @@
     "socket.io": "^1.7.2",
     "style-loader": "^0.13.1",
     "twitter": "^1.7.0",
-    "webpack": "^2.2.1"
-  },
-  "devDependencies": {
+    "webpack": "^2.2.1",
     "file-loader": "^0.10.1",
     "image-webpack-loader": "^3.2.0",
     "react-string-replace": "^0.4.0"
