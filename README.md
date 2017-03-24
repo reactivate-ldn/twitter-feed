@@ -6,12 +6,21 @@ Demonstration of live twitter streams using React, Node (6 and above) and Socket
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm install
+  npm install
 ```
 
 ## Usage
+
+Add twitter access_token and consumer key and secret, Path: `src/server/twitter-config-keys/twitter.js`
+
+Build:
 ```sh
-$ npm start
+  npm run build
+```
+
+Start server:
+```sh
+  npm run start
 ```
 
 ## Design Illustrations

@@ -7,7 +7,8 @@
   },
   "main": "src/server/app.js",
   "scripts": {
-    "start": "webpack --progress && node ."
+    "build": "webpack --progress",
+    "start": "node ."
   },
   "dependencies": {
     "css-loader": "^0.26.1",
