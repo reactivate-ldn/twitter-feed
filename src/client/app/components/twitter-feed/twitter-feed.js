@@ -12,13 +12,12 @@ const TwitterFeed = React.createClass({
     },
     addTweet: function (tweet) {
 
-        var tweets = _.cloneDeep(this.state.tweets);
+        let tweets = _.cloneDeep(this.state.tweets);
         tweets.splice(0, 0, tweet);
-        tweets = _.take(tweets, 1);
-
-        this.setState({
-            tweets: tweets
-        });
+        setTimeout(() => {
+            tweets = _.take(tweets, 1);
+            this.setState({tweets: tweets});
+        }, 10000);
     },
     componentWillMount: function () {
         tweetStream(function (tweet) {

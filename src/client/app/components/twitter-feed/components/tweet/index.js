@@ -19,7 +19,7 @@ const Tweet = React.createClass({
 
         // Match @-mentions
         tweetText = reactStringReplace(tweetText, /@(\w+)/g, (match, i) => (
-            <span key={`span${match + i}`} className="handle">
+            <span key={`span-handler${match + i}`} className="handle">
                 <a key={match + i}
                    href={`https://twitter.com/${match}`}>
                     @{match}
@@ -29,7 +29,7 @@ const Tweet = React.createClass({
 
         // Match hashtags
         tweetText = reactStringReplace(tweetText, /#(\w+)/g, (match, i) => (
-            <span key={`span${match + i}`} className="handle">
+            <span key={`span-hashtag${match + i}`} className="handle">
                 <a key={match + i}
                    href={`https://twitter.com/hashtag/${match}`}>
                     #{match}</a>

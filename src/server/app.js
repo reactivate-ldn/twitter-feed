@@ -10,7 +10,7 @@ const express = require('express'),
     viewPath = path.join(`${__dirname}/../server/views/app.html`),
     tweets = new twitter(twitterConfig.config);
 
-    const myPath = path.join(`${__dirname}/../../public/assets`);
+const myPath = path.join(`${__dirname}/../../public/assets`);
 
 app.use(express.static(myPath));
 app.get('/', (req, res) => res.sendFile(viewPath));
@@ -28,7 +28,9 @@ io.on('connection', (socket) => {
 
 tweets.stream('statuses/filter', {track: twitterConfig.buzzword || 'javascript'}, (stream) => {
     stream.on('data', (data) => {
-        io.sockets.emit('tweet', data);
+        setTimeout(() => {
+            io.sockets.emit('tweet', data);
+        }, 5000);
     });
 });
 
