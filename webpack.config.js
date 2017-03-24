@@ -1,7 +1,10 @@
 const path = require("path");
+const webpack = require('webpack');
 const commonLoaders = [{test: /\.js$/, loader: "jsx-loader"}];
 const assetsPath = path.join(__dirname, 'public', 'assets');
 const publicPath = 'assets/';
+
+console.log('TOKEN: ', process.env.access_token_key);
 
 module.exports = [
     {
@@ -42,6 +45,7 @@ module.exports = [
 
                 }
             ),
-        }
+        },
+        plugins: []
     }
 ];

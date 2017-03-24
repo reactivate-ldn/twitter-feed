@@ -1,5 +1,5 @@
 # react-live-tweets
-Demonstration of live twitter streams using React, Node (6 and above) and Socket.io (1.x.x). Demo tracks buzz word 'javascript'.
+Demonstration of live twitter streams using React, Node (6 and above) and Socket.io (1.x.x).
 
 ## Installation
 
@@ -11,14 +11,25 @@ Install with [npm](https://www.npmjs.com/)
 
 ## Usage
 
-Add twitter access_token and consumer key and secret, Path: `src/server/twitter-config-keys/twitter.js`
-
 Build:
 ```sh
   npm run build
 ```
 
-Start server:
+Set twitter access_token and consumer key and secret as env variable :
+```
+export consumer_key=YOUR_CONSUMER_KEY
+export consumer_secret=YOUR_CONSUMER_SECRET
+export access_token_key=YOUR_ACCESS_TOKEN_KEY
+export access_token_secret=YOUR_ACCESS_TOKEN_SECRET
+```
+
+Set Buzzword env variable (default: javascript) :
+```
+export buzzword=YOUR_BUZZWORD
+```
+
+And start server:
 ```sh
   npm run start
 ```
