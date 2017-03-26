@@ -1,26 +1,9 @@
-<svg width="512" height="437" viewBox="0 0 512 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<g id="Canvas" transform="translate(2638 -254)" figma:type="canvas">
-  <g id="Bridge" figma:type="frame">
-    <mask id="mask0_alpha" mask-type="alpha">
-      <g id="Rectangle-12" figma:type="vector">
-        <use xlink:href="#path0_fill" transform="translate(-2638 254)" fill="#2E86A6"/>
-      </g>
-    </mask>
-    <g id="Rectangle-12" mask="url(#mask0_alpha)" figma:type="vector">
-      <use xlink:href="#path0_fill" transform="translate(-2638 254)" fill="#2E86A6"/>
-    </g>
-    <g id="Combined-Shape" mask="url(#mask0_alpha)" figma:type="vector">
-      <use xlink:href="#path1_fill" transform="translate(-2584 221)" fill="#202D43"/>
-    </g>
-
-    <g id="Combined-Shape" mask="url(#mask0_alpha)" figma:type="vector">
-      <use xlink:href="#path2_fill" transform="translate(-2638 253.5)" fill="#46BDE8"/>
-    </g>
-  </g>
-</g>
-<defs>
-  <path id="path0_fill" d="M 512 0L 0 0L 0 437L 512 437L 512 0Z"/>
-  <path id="path1_fill" fill-rule="evenodd" d="M 118.914 299.405L 118.914 484.11L 399.246 484.11L 399.246 299.405C 399.246 222.004 336.492 159.247 259.08 159.247C 181.673 159.247 118.914 221.997 118.914 299.405ZM 512 0L 512 484.11L 0 484.11L 0 0L 512 0Z"/>
-  <path id="path2_fill" fill-rule="evenodd" d="M 119.414 266.905L 119.414 437.883L 399.746 437.61L 399.746 266.905C 399.746 189.504 336.992 126.747 259.58 126.747C 182.173 126.747 119.414 189.497 119.414 266.905ZM 512 0L 512 437.5L 0 438L 0.5 1L 512 0Z"/>
-</defs>
+<svg width="510" height="437" viewBox="0 0 510 437" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="510" height="437" fill="#2E86A6"/>
+  <use xlink:href="#b" transform="translate(54 -33)" fill="#202D43"/>
+  <use xlink:href="#c" transform="translate(0 -1)" fill="#46BDE8"/>
+  <defs>
+    <path id="b" fill-rule="evenodd" d="M118.914 299.405V484.11h280.332V299.405c0-77.401-62.754-140.158-140.166-140.158-77.407 0-140.166 62.75-140.166 140.158zM512 0v484.11H0V0h512z"/>
+    <path id="c" fill-rule="evenodd" d="M119.414 266.905v170.978l280.332-.273V266.905c0-77.401-62.754-140.158-140.166-140.158-77.407 0-140.166 62.75-140.166 140.158zM512 0v437.5L0 438 .5 1 512 0z"/>
+  </defs>
 </svg>

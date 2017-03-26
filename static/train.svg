@@ -1,1112 +1,872 @@
-<svg width="7597" height="224" viewBox="0 0 7597 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>train</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(4161 -2120)" figma:type="canvas">
-<g id="train" figma:type="frame">
-<g id="Rectangle-15" figma:type="vector">
-<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 -3019.12 2147.88)" fill="#013B32"/>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask0_alpha" mask-type="alpha">
-<g id="mask-2" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path1_fill" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Combined-Shape" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path1_fill" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path2_fill" transform="matrix(-1 0 0 1 -3060.03 2296.98)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path3_fill" transform="matrix(-1 0 0 1 -3083.81 2331.83)" fill="#21314D"/>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path4_stroke" transform="matrix(-1 0 0 1 -3265.23 2318.38)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path5_stroke" transform="matrix(-1 0 0 1 -3190.02 2318.38)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path6_stroke" transform="matrix(-1 0 0 1 -3142.28 2318.38)" fill="#0B8E7A"/>
-</g>
-<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask1_alpha" mask-type="alpha">
-<g id="mask-4" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask1_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3472.63 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -3552.4 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3552.99 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask2_alpha" mask-type="alpha">
-<g id="mask-6" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask2_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3651.52 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -3731.29 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3731.87 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask3_alpha" mask-type="alpha">
-<g id="mask-8" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask3_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask3_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3293.75 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask3_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3374.1 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path11_fill" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#D8D8D8"/>
-<use xlink:href="#path12_stroke" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path13_fill" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#D8D8D8"/>
-<use xlink:href="#path14_stroke" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path15_fill" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#D8D8D8"/>
-<use xlink:href="#path16_stroke" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Group-5" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -3156.57 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -3167.8 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path19_fill" transform="matrix(-1 0 0 1 -3898.7 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path20_fill" transform="matrix(-1 0 0 1 -3909.92 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-2" mask="url(#mask0_alpha)" figma:type="vector">
-<use xlink:href="#path21_fill" transform="matrix(-1 0 0 1 -4008.04 2185.08)" fill="#013E34"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask4_alpha" mask-type="alpha">
-<g id="mask-10" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -2915.92 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -2927.15 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -2056.46 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -2067.68 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 -1987.77 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 -1987.77 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask5_alpha" mask-type="alpha">
-<g id="mask-12" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask5_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -2405.98 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -2485.75 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -2486.34 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask6_alpha" mask-type="alpha">
-<g id="mask-14" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask6_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2524.67 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2604.44 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2605.03 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask7_alpha" mask-type="alpha">
-<g id="mask-16" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask7_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2705.25 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2785.02 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2785.6 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask8_alpha" mask-type="alpha">
-<g id="mask-18" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask8_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2166.91 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2246.68 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2247.26 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -2407.08 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 -2018.46 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -2908.15 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -2983.39 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -2297.14 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 -2159.63 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 -2028.95 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask9_alpha" mask-type="alpha">
-<g id="mask-20" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -1830.32 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -1841.55 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -970.858 2174.69)" fill="#01C3A7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -982.083 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 -902.168 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 -902.168 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask10_alpha" mask-type="alpha">
-<g id="mask-22" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask10_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -1320.38 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -1400.15 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -1400.74 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask11_alpha" mask-type="alpha">
-<g id="mask-24" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask11_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1439.07 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1518.84 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1519.43 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask12_alpha" mask-type="alpha">
-<g id="mask-26" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask12_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1619.65 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1699.42 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1700 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask13_alpha" mask-type="alpha">
-<g id="mask-28" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask13_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1081.31 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1161.08 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1161.66 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -1321.48 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 -932.857 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -1822.55 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -1897.79 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -1211.54 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 -1074.03 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 -943.345 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask14_alpha" mask-type="alpha">
-<g id="mask-30" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -744.321 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -755.546 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 115.142 2174.69)" fill="#01C3A7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 103.917 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 183.832 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 183.832 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask15_alpha" mask-type="alpha">
-<g id="mask-32" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask15_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -234.382 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -314.153 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -314.736 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask16_alpha" mask-type="alpha">
-<g id="mask-34" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask16_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -353.073 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -432.845 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -433.427 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask17_alpha" mask-type="alpha">
-<g id="mask-36" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask17_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -533.648 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -613.419 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -614.002 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask18_alpha" mask-type="alpha">
-<g id="mask-38" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3.40565 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask18_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3.40565 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 4.6924 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -75.0791 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -75.6617 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -235.476 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 153.143 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -736.551 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -811.791 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -125.542 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 11.9722 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 142.655 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask19_alpha" mask-type="alpha">
-<g id="mask-40" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 339.679 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 328.454 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 1199.14 2174.69)" fill="#01C3A7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 1187.92 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 1267.83 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 1267.83 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask20_alpha" mask-type="alpha">
-<g id="mask-42" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask20_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 849.618 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 769.847 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 769.264 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask21_alpha" mask-type="alpha">
-<g id="mask-44" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask21_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 730.927 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 651.155 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 650.573 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask22_alpha" mask-type="alpha">
-<g id="mask-46" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask22_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 550.352 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 470.581 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 469.998 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask23_alpha" mask-type="alpha">
-<g id="mask-48" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask23_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1088.69 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1008.92 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1008.34 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 848.524 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 1237.14 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 347.449 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 272.209 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 958.458 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 1095.97 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 1226.66 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask24_alpha" mask-type="alpha">
-<g id="mask-50" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 1423.68 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 1412.45 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 2283.14 2174.69)" fill="#01C3A7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 2271.92 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 2351.83 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 2351.83 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask25_alpha" mask-type="alpha">
-<g id="mask-52" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask25_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 1933.62 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 1853.85 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 1853.26 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask26_alpha" mask-type="alpha">
-<g id="mask-54" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask26_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1814.93 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1735.16 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1734.57 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask27_alpha" mask-type="alpha">
-<g id="mask-56" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask27_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1634.35 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1554.58 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1554 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask28_alpha" mask-type="alpha">
-<g id="mask-58" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask28_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2172.69 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2092.92 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2092.34 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 1932.52 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 2321.14 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 1431.45 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 1356.21 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 2042.46 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 2179.97 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 2310.66 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-<g id="Group-2" figma:type="frame">
-<g id="Group-7" figma:type="frame">
-<g id="train" figma:type="frame">
-<mask id="mask29_alpha" mask-type="alpha">
-<g id="mask-60" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-8" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFFFFF"/>
-</g>
-<g id="Group-5" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 2507.68 2174.69)" fill="#00E9C7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 2496.45 2188.39)" fill="#144253"/>
-</g>
-</g>
-</g>
-<g id="Group-5" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Rectangle-2-Copy" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 3367.14 2174.69)" fill="#01C3A7"/>
-</g>
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 3355.92 2188.39)" fill="#004D41"/>
-</g>
-</g>
-</g>
-<g id="Rectangle-3" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 3435.83 2294.93)" fill="#00E9C7"/>
-</g>
-<g id="Rectangle-3" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 3435.83 2331.83)" fill="#21314D"/>
-</g>
-<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask30_alpha" mask-type="alpha">
-<g id="mask-62" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask30_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
-<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 3017.62 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
-<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 2937.85 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
-<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 2937.26 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask31_alpha" mask-type="alpha">
-<g id="mask-64" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask31_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2898.93 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2819.16 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2818.57 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask32_alpha" mask-type="alpha">
-<g id="mask-66" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask32_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2718.35 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2638.58 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2638 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<mask id="mask33_alpha" mask-type="alpha">
-<g id="mask-68" figma:type="frame">
-<g id="Vector" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#FFFFFF"/>
-</g>
-</g>
-</mask>
-<g id="Rectangle-2" mask="url(#mask33_alpha)" figma:type="vector">
-<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#013E34"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
-<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 3256.69 2187.84)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
-<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 3176.92 2183.77)" fill="#D1E2FF"/>
-</g>
-<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
-<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 3176.34 2150.04)" fill="#D1E2FF"/>
-</g>
-</g>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 3016.52 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 3405.14 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 2515.45 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 2440.21 2318.77)" fill="#0B8E7A"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 3126.46 2155.67)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 3263.97 2274.15)" fill="#01C3A7"/>
-</g>
-<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
-<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 3394.66 2155.67)" fill="#01C3A7"/>
-</g>
-</g>
-</g>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" d="M 96.26 0L 0.000192969 0L 0.000192969 188.171L 96.26 188.171L 96.26 0Z"/>
-<path id="path1_fill" d="M 1057.66 134.921C 1077.51 155.239 1100.86 223.786 1014.54 223.786C 833.315 223.786 4.47265 223.786 4.47265 223.786C 2.00247 223.786 2.90829e-21 221.783 2.90829e-21 219.316L 2.90829e-21 33.5637C 2.90829e-21 15.027 15.0297 0.00550406 33.5679 0.01186C 33.5679 0.01186 552.168 0.210227 792.788 6.56421e-05C 907.54 -0.100161 1037.82 114.603 1057.66 134.921Z"/>
-<path id="path2_fill" d="M 1124.77 6.55566e-06L 0 6.55566e-06L 0 55.9466L 1124.77 55.9466L 1124.77 6.55566e-06Z"/>
-<path id="path3_fill" d="M 1124.77 -4.63867e-06L 0 -4.63867e-06L 0 55.9466L 1124.77 55.9466L 1124.77 -4.63867e-06Z"/>
-<path id="path4_stroke" d="M -5.18262e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -5.18262e-06 3.19685L -5.18262e-06 -3.19684ZM 847.143 3.19685C 848.908 3.19685 850.34 1.76558 850.34 7.5e-06C 850.34 -1.76556 848.908 -3.19684 847.143 -3.19684L 847.143 3.19685ZM -5.18262e-06 3.19685L 847.143 3.19685L 847.143 -3.19684L -5.18262e-06 -3.19684L -5.18262e-06 3.19685Z"/>
-<path id="path5_stroke" d="M -2.07227e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -2.07227e-06 3.19685L -2.07227e-06 -3.19684ZM 52.1815 3.19685C 53.947 3.19685 55.3783 1.76558 55.3783 7.5e-06C 55.3783 -1.76556 53.947 -3.19684 52.1815 -3.19684L 52.1815 3.19685ZM -2.07227e-06 3.19685L 52.1815 3.19685L 52.1815 -3.19684L -2.07227e-06 -3.19684L -2.07227e-06 3.19685Z"/>
-<path id="path6_stroke" d="M -9.20313e-07 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -9.20313e-07 3.19685L -9.20313e-07 -3.19684ZM 24.6838 3.19685C 26.4494 3.19685 27.8806 1.76558 27.8806 7.5e-06C 27.8806 -1.76556 26.4494 -3.19684 24.6838 -3.19684L 24.6838 3.19685ZM -9.20313e-07 3.19685L 24.6838 3.19685L 24.6838 -3.19684L -9.20313e-07 -3.19684L -9.20313e-07 3.19685Z"/>
-<path id="path7_fill" d="M 119.055 0L 29.0919 0C 13.0249 0 0 13.0249 0 29.0919C 0 45.1589 13.0249 58.1837 29.0919 58.1837L 119.055 58.1837C 135.122 58.1837 148.147 45.1589 148.147 29.0919C 148.147 13.0249 135.122 0 119.055 0Z"/>
-<path id="path8_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
-<path id="path9_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
-<path id="path10_stroke" d="M 4.43999 -4.26114C 2.08663 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71327 -2.08662 -6.79335 1.80901 -4.43998 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43998 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43998 4.26114Z"/>
-<path id="path11_fill" fill-rule="evenodd" d="M 1.0624e-06 -1.66069e-06L 811.3 -1.66069e-06Z"/>
-<path id="path12_stroke" d="M 1.0624e-06 -3.19685C -1.76557 -3.19685 -3.19684 -1.76557 -3.19684 -1.66069e-06C -3.19684 1.76557 -1.76557 3.19684 1.0624e-06 3.19684L 1.0624e-06 -3.19685ZM 811.3 3.19684C 813.065 3.19684 814.496 1.76557 814.496 -1.66069e-06C 814.496 -1.76557 813.065 -3.19685 811.3 -3.19685L 811.3 3.19684ZM 1.0624e-06 3.19684L 811.3 3.19684L 811.3 -3.19685L 1.0624e-06 -3.19685L 1.0624e-06 3.19684Z"/>
-<path id="path13_fill" fill-rule="evenodd" d="M -1.23047e-06 5.29199e-06L 591.312 5.29199e-06Z"/>
-<path id="path14_stroke" d="M -1.23047e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 5.29199e-06C -3.19685 1.76557 -1.76557 3.19685 -1.23047e-06 3.19685L -1.23047e-06 -3.19684ZM 591.312 3.19685C 593.078 3.19685 594.509 1.76557 594.509 5.29199e-06C 594.509 -1.76556 593.078 -3.19684 591.312 -3.19684L 591.312 3.19685ZM -1.23047e-06 3.19685L 591.312 3.19685L 591.312 -3.19684L -1.23047e-06 -3.19684L -1.23047e-06 3.19685Z"/>
-<path id="path15_fill" fill-rule="evenodd" d="M -2.49688e-05 5.29199e-06L 56.6401 5.29199e-06Z"/>
-<path id="path16_stroke" d="M -2.49688e-05 -3.19684C -1.76559 -3.19684 -3.19687 -1.76556 -3.19687 5.29199e-06C -3.19687 1.76557 -1.76559 3.19685 -2.49688e-05 3.19685L -2.49688e-05 -3.19684ZM 56.6401 3.19685C 58.4057 3.19685 59.837 1.76557 59.837 5.29199e-06C 59.837 -1.76556 58.4057 -3.19684 56.6401 -3.19684L 56.6401 3.19685ZM -2.49688e-05 3.19685L 56.6401 3.19685L 56.6401 -3.19684L -2.49688e-05 -3.19684L -2.49688e-05 3.19685Z"/>
-<path id="path17_fill" d="M 48.3302 0L 19.0212 0C 8.51609 0 0 8.51609 0 19.0212L 0 92.8719C 0 103.377 8.51609 111.893 19.0212 111.893L 48.3302 111.893C 58.8353 111.893 67.3514 103.377 67.3514 92.8719L 67.3514 19.0212C 67.3514 8.51609 58.8353 0 48.3302 0Z"/>
-<path id="path18_fill" d="M 39.3065 0L 5.59448 0C 2.50473 0 0 2.50473 0 5.59448L 0 27.5168C 0 30.6065 2.50473 33.1112 5.59448 33.1112L 39.3065 33.1112C 42.3962 33.1112 44.9009 30.6065 44.9009 27.5168L 44.9009 5.59448C 44.9009 2.50473 42.3962 0 39.3065 0Z"/>
-<path id="path19_fill" d="M 32.3048 0L 19.0212 0C 8.51609 0 0 8.51609 0 19.0212L 0 92.8719C 0 103.377 8.51609 111.893 19.0212 111.893L 32.3048 111.893C 42.8099 111.893 51.326 103.377 51.326 92.8719L 51.326 19.0212C 51.326 8.51609 42.8099 0 32.3048 0Z"/>
-<path id="path20_fill" d="M 23.2724 0L 5.59448 0C 2.50473 0 0 2.50473 0 5.59448L 0 27.5168C 0 30.6065 2.50473 33.1112 5.59448 33.1112L 23.2724 33.1112C 26.3621 33.1112 28.8669 30.6065 28.8669 27.5168L 28.8669 5.59448C 28.8669 2.50473 26.3621 0 23.2724 0Z"/>
-<path id="path21_fill" fill-rule="evenodd" d="M 1.46345 3.57413C -0.912882 1.60019 -0.334631 -2.43525e-06 2.7577 -2.43525e-06L 171.167 -2.43525e-06C 174.259 -2.43525e-06 176.765 2.5126 176.765 5.59469L 176.765 50.3519C 176.765 53.4418 174.263 55.9466 171.179 55.9466L 70.098 55.9466C 67.013 55.9466 62.587 54.3475 60.2094 52.3724L 1.46345 3.57413Z"/>
-<path id="path22_fill" d="M 0 41.3755C 0 18.5245 18.5194 0 41.3734 0L 1022.37 0C 1045.22 0 1063.74 18.5166 1063.74 41.3755L 1063.74 215.837C 1063.74 219.995 1060.38 223.365 1056.22 223.365L 7.5245 223.365C 3.36883 223.365 0 219.99 0 215.837L 0 41.3755Z"/>
-<path id="path23_fill" fill-rule="evenodd" d="M 0 1.16211e-07L 1080.31 1.16211e-07L 1189.46 61.6097L 1189.46 99.3337L 0 99.3337L 0 1.16211e-07Z"/>
-<path id="path24_fill" d="M 1189.46 -4.63867e-06L 0 -4.63867e-06L 0 55.9466L 1189.46 55.9466L 1189.46 -4.63867e-06Z"/>
-<path id="path25_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
-<path id="path26_stroke" d="M 4.43999 -4.26114C 2.08663 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71327 -2.08662 -6.79334 1.80901 -4.43998 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43998 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43998 4.26114Z"/>
-<path id="path27_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2973 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
-<path id="path28_stroke" d="M 8.8457e-06 -3.19685C -1.76556 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76556 3.19684 8.8457e-06 3.19684L 8.8457e-06 -3.19685ZM 469.076 3.19684C 470.841 3.19684 472.272 1.76556 472.272 -4.99316e-06C 472.272 -1.76557 470.841 -3.19685 469.076 -3.19685L 469.076 3.19684ZM 8.8457e-06 3.19684L 469.076 3.19684L 469.076 -3.19685L 8.8457e-06 -3.19685L 8.8457e-06 3.19684Z"/>
-<path id="path29_stroke" d="M 7.76025e-07 -3.19685C -1.76557 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76557 3.19684 7.76025e-07 3.19684L 7.76025e-07 -3.19685ZM 348.873 3.19684C 350.639 3.19684 352.07 1.76556 352.07 -4.99316e-06C 352.07 -1.76557 350.639 -3.19685 348.873 -3.19685L 348.873 3.19684ZM 7.76025e-07 3.19684L 348.873 3.19684L 348.873 -3.19685L 7.76025e-07 -3.19685L 7.76025e-07 3.19684Z"/>
-<path id="path30_stroke" d="M 6.81641e-06 -3.19685C -1.76556 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76556 3.19684 6.81641e-06 3.19684L 6.81641e-06 -3.19685ZM 52.1815 3.19684C 53.947 3.19684 55.3783 1.76556 55.3783 -4.99316e-06C 55.3783 -1.76557 53.947 -3.19685 52.1815 -3.19685L 52.1815 3.19684ZM 6.81641e-06 3.19684L 52.1815 3.19684L 52.1815 -3.19685L 6.81641e-06 -3.19685L 6.81641e-06 3.19684Z"/>
-<path id="path31_stroke" d="M 1.16992e-05 -3.19685C -1.76556 -3.19685 -3.19683 -1.76557 -3.19683 -4.99316e-06C -3.19683 1.76556 -1.76556 3.19684 1.16992e-05 3.19684L 1.16992e-05 -3.19685ZM 52.1815 3.19684C 53.947 3.19684 55.3783 1.76556 55.3783 -4.99316e-06C 55.3783 -1.76557 53.947 -3.19685 52.1815 -3.19685L 52.1815 3.19684ZM 1.16992e-05 3.19684L 52.1815 3.19684L 52.1815 -3.19685L 1.16992e-05 -3.19685L 1.16992e-05 3.19684Z"/>
-<path id="path32_stroke" d="M 1.29199e-05 -3.19684C -1.76556 -3.19684 -3.19683 -1.76557 -3.19683 1.854e-06C -3.19683 1.76557 -1.76556 3.19685 1.29199e-05 3.19685L 1.29199e-05 -3.19684ZM 721.982 3.19685C 723.748 3.19685 725.179 1.76557 725.179 1.854e-06C 725.179 -1.76557 723.748 -3.19684 721.982 -3.19684L 721.982 3.19685ZM 1.29199e-05 3.19685L 721.982 3.19685L 721.982 -3.19684L 1.29199e-05 -3.19684L 1.29199e-05 3.19685Z"/>
-<path id="path33_stroke" d="M 5.04883e-07 -3.19684C -1.76557 -3.19684 -3.19684 -1.76556 -3.19684 5.29199e-06C -3.19684 1.76557 -1.76557 3.19685 5.04883e-07 3.19685L 5.04883e-07 -3.19684ZM 721.982 3.19685C 723.748 3.19685 725.179 1.76557 725.179 5.29199e-06C 725.179 -1.76556 723.748 -3.19684 721.982 -3.19684L 721.982 3.19685ZM 5.04883e-07 3.19685L 721.982 3.19685L 721.982 -3.19684L 5.04883e-07 -3.19684L 5.04883e-07 3.19685Z"/>
-<path id="path34_stroke" d="M 238.229 3.19685C 239.994 3.19685 241.425 1.76557 241.425 1.854e-06C 241.425 -1.76557 239.994 -3.19684 238.229 -3.19684L 238.229 3.19685ZM 2.94922e-08 -3.19684C -1.76557 -3.19684 -3.19684 -1.76557 -3.19684 1.854e-06C -3.19684 1.76557 -1.76557 3.19685 2.94922e-08 3.19685L 2.94922e-08 -3.19684ZM 238.229 -3.19684L 2.94922e-08 -3.19684L 2.94922e-08 3.19685L 238.229 3.19685L 238.229 -3.19684Z"/>
-</defs>
+<svg width="7597" height="224" viewBox="0 0 7597 224" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+        <g>
+            <use xlink:href="#a" transform="matrix(-1 0 0 1 1141.88 27.88)" fill="#013B32"/>
+            <g transform="translate(4161 -2120)">
+                <mask id="c">
+                    <g>
+                        <use xlink:href="#b" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#c)">
+                    <use xlink:href="#b" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#d" transform="matrix(-1 0 0 1 -3060.03 2296.98)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#e" transform="matrix(-1 0 0 1 -3083.81 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#f" transform="matrix(-1 0 0 1 -3265.23 2318.38)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#g" transform="matrix(-1 0 0 1 -3190.02 2318.38)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#h" transform="matrix(-1 0 0 1 -3142.28 2318.38)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#c)">
+                    <mask id="j">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#j)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#j)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -3472.63 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#j)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -3552.4 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#j)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -3552.99 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#c)">
+                    <mask id="n">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#n)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#n)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -3651.52 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#n)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -3731.29 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#n)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -3731.87 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#c)">
+                    <mask id="o">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#o)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#o)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -3293.75 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#o)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -3374.1 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#p" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#D8D8D8"/>
+                    <use xlink:href="#q" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#r" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#D8D8D8"/>
+                    <use xlink:href="#s" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#t" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#D8D8D8"/>
+                    <use xlink:href="#u" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -3156.57 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -3167.8 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#x" transform="matrix(-1 0 0 1 -3898.7 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#y" transform="matrix(-1 0 0 1 -3909.92 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#c)">
+                    <use xlink:href="#z" transform="matrix(-1 0 0 1 -4008.04 2185.08)" fill="#013E34"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="B">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#B)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -2915.92 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -2927.15 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -2056.46 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -2067.68 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 -1987.77 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 -1987.77 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#B)">
+                    <mask id="E">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#E)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#E)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 -2405.98 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#E)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 -2485.75 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#E)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 -2486.34 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#B)">
+                    <mask id="I">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#I)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#I)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -2524.67 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#I)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -2604.44 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#I)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -2605.03 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#B)">
+                    <mask id="J">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#J)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#J)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -2705.25 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#J)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -2785.02 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#J)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -2785.6 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#B)">
+                    <mask id="K">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#K)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#K)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -2166.91 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#K)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -2246.68 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#K)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -2247.26 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 -2407.08 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 -2018.46 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 -2908.15 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 -2983.39 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 -2297.14 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 -2159.63 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#B)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 -2028.95 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="S">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#S)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -1830.32 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -1841.55 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -970.858 2174.69)" fill="#01C3A7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -982.083 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 -902.168 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 -902.168 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#S)">
+                    <mask id="T">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#T)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#T)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 -1320.38 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#T)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 -1400.15 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#T)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 -1400.74 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#S)">
+                    <mask id="U">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#U)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#U)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -1439.07 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#U)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -1518.84 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#U)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -1519.43 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#S)">
+                    <mask id="V">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#V)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#V)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -1619.65 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#V)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -1699.42 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#V)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -1700 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#S)">
+                    <mask id="W">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#W)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#W)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -1081.31 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#W)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -1161.08 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#W)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -1161.66 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 -1321.48 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 -932.857 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 -1822.55 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 -1897.79 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 -1211.54 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 -1074.03 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#S)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 -943.345 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="X">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#X)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 -744.321 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 -755.546 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 115.142 2174.69)" fill="#01C3A7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 103.917 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 183.832 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 183.832 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#X)">
+                    <mask id="Y">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#Y)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Y)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 -234.382 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Y)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 -314.153 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Y)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 -314.736 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#X)">
+                    <mask id="Z">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#Z)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Z)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -353.073 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Z)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -432.845 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#Z)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -433.427 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#X)">
+                    <mask id="aa">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#aa)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aa)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 -533.648 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aa)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -613.419 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aa)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -614.002 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#X)">
+                    <mask id="ab">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 -3.406 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ab)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 -3.406 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ab)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 4.692 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ab)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 -75.08 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ab)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 -75.662 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 -235.476 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 153.143 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 -736.551 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 -811.791 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 -125.542 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 11.972 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#X)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 142.655 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="ac">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#ac)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 339.679 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 328.454 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 1199.14 2174.69)" fill="#01C3A7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 1187.92 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 1267.83 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 1267.83 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#ac)">
+                    <mask id="ad">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ad)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ad)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 849.618 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ad)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 769.847 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ad)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 769.264 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ac)">
+                    <mask id="ae">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ae)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ae)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 730.927 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ae)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 651.155 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ae)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 650.573 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ac)">
+                    <mask id="af">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#af)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#af)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 550.352 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#af)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 470.581 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#af)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 469.998 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ac)">
+                    <mask id="ag">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ag)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ag)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 1088.69 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ag)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 1008.92 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ag)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 1008.34 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 848.524 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 1237.14 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 347.449 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 272.209 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 958.458 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 1095.97 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#ac)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 1226.66 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="ah">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#ah)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 1423.68 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 1412.45 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 2283.14 2174.69)" fill="#01C3A7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 2271.92 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 2351.83 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 2351.83 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#ah)">
+                    <mask id="ai">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ai)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ai)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 1933.62 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ai)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 1853.85 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ai)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 1853.26 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ah)">
+                    <mask id="aj">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#aj)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aj)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 1814.93 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aj)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 1735.16 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aj)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 1734.57 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ah)">
+                    <mask id="ak">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ak)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ak)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 1634.35 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ak)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 1554.58 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ak)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 1554 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ah)">
+                    <mask id="al">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#al)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#al)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 2172.69 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#al)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 2092.92 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#al)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 2092.34 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 1932.52 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 2321.14 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 1431.45 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 1356.21 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 2042.46 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 2179.97 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#ah)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 2310.66 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+            <g transform="translate(4161 -2120)">
+                <mask id="am">
+                    <g>
+                        <use xlink:href="#A" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFF"/>
+                    </g>
+                </mask>
+                <g mask="url(#am)">
+                    <use xlink:href="#A" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFF"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 2507.68 2174.69)" fill="#00E9C7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 2496.45 2188.39)" fill="#144253"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#v" transform="matrix(-1 0 0 1 3367.14 2174.69)" fill="#01C3A7"/>
+                    <use xlink:href="#w" transform="matrix(-1 0 0 1 3355.92 2188.39)" fill="#004D41"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#C" transform="matrix(-1 0 0 1 3435.83 2294.93)" fill="#00E9C7"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#D" transform="matrix(-1 0 0 1 3435.83 2331.83)" fill="#21314D"/>
+                </g>
+                <g mask="url(#am)">
+                    <mask id="an">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#an)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#an)">
+                        <use xlink:href="#F" transform="matrix(-1 0 0 1 3017.62 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#an)">
+                        <use xlink:href="#G" transform="matrix(-1 0 0 1 2937.85 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#an)">
+                        <use xlink:href="#H" transform="matrix(-1 0 0 1 2937.26 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#am)">
+                    <mask id="ao">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ao)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ao)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 2898.93 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ao)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 2819.16 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ao)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 2818.57 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#am)">
+                    <mask id="ap">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#ap)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ap)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 2718.35 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ap)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 2638.58 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#ap)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 2638 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#am)">
+                    <mask id="aq">
+                        <g>
+                            <use xlink:href="#i" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#FFF"/>
+                        </g>
+                    </mask>
+                    <g mask="url(#aq)">
+                        <use xlink:href="#i" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#013E34"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aq)">
+                        <use xlink:href="#k" transform="matrix(-1 0 0 1 3256.69 2187.84)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aq)">
+                        <use xlink:href="#l" transform="matrix(-1 0 0 1 3176.92 2183.77)" fill="#D1E2FF"/>
+                    </g>
+                    <g opacity=".42" mask="url(#aq)">
+                        <use xlink:href="#m" transform="matrix(-1 0 0 1 3176.34 2150.04)" fill="#D1E2FF"/>
+                    </g>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#L" transform="matrix(-1 0 0 1 3016.52 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#M" transform="matrix(-1 0 0 1 3405.14 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#N" transform="matrix(-1 0 0 1 2515.45 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#O" transform="matrix(-1 0 0 1 2440.21 2318.77)" fill="#0B8E7A"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#P" transform="matrix(-1 0 0 1 3126.46 2155.67)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#Q" transform="matrix(-1 0 0 1 3263.97 2274.15)" fill="#01C3A7"/>
+                </g>
+                <g mask="url(#am)">
+                    <use xlink:href="#R" transform="matrix(-1 0 0 1 3394.66 2155.67)" fill="#01C3A7"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="a" d="M96.26 0H0v188.171h96.26V0z"/>
+        <path id="b" d="M1057.66 134.921c19.85 20.318 43.2 88.865-43.12 88.865H4.473A4.472 4.472 0 0 1 0 219.316V33.564C0 15.027 15.03.006 33.568.012c0 0 518.6.198 759.22-.012C907.54-.1 1037.82 114.603 1057.66 134.921z"/>
+        <path id="d" d="M1124.77 0H0v55.947h1124.77V0z"/>
+        <path id="e" d="M1124.77 0H0v55.947h1124.77V0z"/>
+        <path id="f" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm847.143 6.394a3.197 3.197 0 0 0 0-6.394v6.394zM0 3.197h847.143v-6.394H0v6.394z"/>
+        <path id="g" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm52.181 6.394a3.197 3.197 0 0 0 0-6.394v6.394zM0 3.197h52.181v-6.394H0v6.394z"/>
+        <path id="h" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm24.684 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h24.684v-6.394H0v6.394z"/>
+        <path id="i" d="M119.055 0H29.092C13.025 0 0 13.025 0 29.092s13.025 29.092 29.092 29.092h89.963c16.067 0 29.092-13.025 29.092-29.092S135.122 0 119.055 0z"/>
+        <path id="k" d="M4.44-4.261A6.154 6.154 0 0 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="l" d="M4.44-4.261A6.154 6.154 0 0 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="m" d="M4.44-4.261A6.154 6.154 0 1 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="p" fill-rule="evenodd" d="M0 0h811.3z"/>
+        <path id="q" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm811.3 6.394a3.196 3.196 0 0 0 0-6.394v6.394zM0 3.197h811.3v-6.394H0v6.394z"/>
+        <path id="r" fill-rule="evenodd" d="M0 0h591.312z"/>
+        <path id="s" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm591.312 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h591.312v-6.394H0v6.394z"/>
+        <path id="t" fill-rule="evenodd" d="M0 0h56.64z"/>
+        <path id="u" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm56.64 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h56.64v-6.394H0v6.394z"/>
+        <path id="v" d="M48.33 0H19.021C8.516 0 0 8.516 0 19.021v73.85c0 10.506 8.516 19.022 19.021 19.022h29.31c10.504 0 19.02-8.516 19.02-19.021v-73.85C67.351 8.515 58.835 0 48.331 0z"/>
+        <path id="w" d="M39.306 0H5.594A5.594 5.594 0 0 0 0 5.594v21.923a5.594 5.594 0 0 0 5.594 5.594h33.713a5.594 5.594 0 0 0 5.594-5.594V5.594A5.594 5.594 0 0 0 39.306 0z"/>
+        <path id="x" d="M32.305 0H19.02C8.516 0 0 8.516 0 19.021v73.85c0 10.506 8.516 19.022 19.021 19.022h13.284c10.505 0 19.021-8.516 19.021-19.021v-73.85C51.326 8.515 42.81 0 32.305 0z"/>
+        <path id="y" d="M23.272 0H5.594A5.594 5.594 0 0 0 0 5.594v21.923a5.594 5.594 0 0 0 5.594 5.594h17.678a5.594 5.594 0 0 0 5.595-5.594V5.594A5.595 5.595 0 0 0 23.272 0z"/>
+        <path id="z" fill-rule="evenodd" d="M1.463 3.574C-.913 1.6-.335 0 2.758 0h168.409a5.601 5.601 0 0 1 5.598 5.595v44.757a5.591 5.591 0 0 1-5.586 5.595H70.098c-3.085 0-7.511-1.6-9.889-3.575L1.463 3.574z"/>
+        <path id="A" d="M0 41.376C0 18.525 18.52 0 41.373 0h980.997c22.85 0 41.37 18.517 41.37 41.376v174.461a7.52 7.52 0 0 1-7.52 7.528H7.524C3.37 223.365 0 219.99 0 215.837V41.375z"/>
+        <path id="C" fill-rule="evenodd" d="M0 0h1080.31l109.15 61.61v37.724H0V0z"/>
+        <path id="D" d="M1189.46 0H0v55.947h1189.46V0z"/>
+        <path id="F" d="M4.44-4.261A6.154 6.154 0 0 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="G" d="M4.44-4.261A6.154 6.154 0 1 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="H" d="M4.44-4.261A6.154 6.154 0 0 0-4.44 4.26L4.44-4.26zm47.504 67.273a6.154 6.154 0 0 0 8.88-8.523l-8.88 8.523zM-4.44 4.262l56.384 58.75 8.88-8.523L4.44-4.26-4.44 4.26z"/>
+        <path id="L" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm469.076 6.394a3.196 3.196 0 0 0 0-6.394v6.394zM0 3.197h469.076v-6.394H0v6.394z"/>
+        <path id="M" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm348.873 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h348.873v-6.394H0v6.394z"/>
+        <path id="N" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm52.181 6.394a3.197 3.197 0 0 0 0-6.394v6.394zM0 3.197h52.181v-6.394H0v6.394z"/>
+        <path id="O" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm52.181 6.394a3.197 3.197 0 0 0 0-6.394v6.394zM0 3.197h52.181v-6.394H0v6.394z"/>
+        <path id="P" d="M0-3.197a3.197 3.197 0 1 0 0 6.394v-6.394zm721.982 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h721.982v-6.394H0v6.394z"/>
+        <path id="Q" d="M0-3.197a3.197 3.197 0 0 0 0 6.394v-6.394zm721.982 6.394a3.197 3.197 0 1 0 0-6.394v6.394zM0 3.197h721.982v-6.394H0v6.394z"/>
+        <path id="R" d="M238.229 3.197a3.196 3.196 0 0 0 0-6.394v6.394zM0-3.197a3.197 3.197 0 1 0 0 6.394v-6.394zm238.229 0H0v6.394h238.229v-6.394z"/>
+    </defs>
 </svg>

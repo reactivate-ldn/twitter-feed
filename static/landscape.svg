@@ -1,35 +1,17 @@
-<svg width="3932" height="575" viewBox="0 0 3932 575" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>Landscape</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(3622 -971)" figma:type="canvas">
-<g id="Landscape" figma:type="frame">
-<mask id="mask0_alpha" mask-type="alpha">
-<path d="M -3622 971L 310 971L 310 1546L -3622 1546L -3622 971Z" fill="#FFFFFF"/>
-</mask>
-<g id="Frame" mask="url(#mask0_alpha)" figma:type="frame">
-<g id="Group" figma:type="frame">
-<g id="Group-8" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path0_fill" transform="translate(-542.116 1066.38)" fill="#0D4C63"/>
-</g>
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path1_fill" transform="translate(-3157.86 971)" fill="#0D4C63"/>
-</g>
-</g>
-</g>
-<g id="Path-2" figma:type="vector">
-<use xlink:href="#path2_fill" transform="translate(-3622 1057.93)" fill="#0D4C63"/>
-</g>
-<g id="Path-2" figma:type="vector">
-<use xlink:href="#path3_fill" transform="translate(-3458.3 1162.93)" fill="#1A6681"/>
-</g>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M -1.24219e-05 132.02L 70.0517 -2.19365e-06L 131.29 137.123L -1.24219e-05 132.02Z"/>
-<path id="path1_fill" fill-rule="evenodd" d="M 414.809 368.426L 395.087 405.591L 504.575 409.846L 453.506 295.503L 415.86 366.447L 365.709 254.159L 321.265 337.913L 277.912 240.845L 219.493 350.933L 312.438 354.546L 307.29 364.247L 414.809 368.426ZM -1.49629e-05 283.161L 58.4186 173.072L 109.487 287.416L -1.49629e-05 283.161ZM 1580.35 110.088L 1638.77 1.08833e-12L 1689.84 114.344L 1580.35 110.088ZM 1448.65 139.959L 1507.07 29.8711L 1558.14 144.215L 1448.65 139.959Z"/>
-<path id="path2_fill" fill-rule="evenodd" d="M -2.00346e-08 489.864C -2.00346e-08 489.864 209.643 117.716 524.533 164.236C 839.422 210.755 802.761 354.015 1304.88 248.668C 1807 143.321 1977.07 -146.714 2344.38 91.5336C 2711.68 329.781 2945.12 181.244 2945.12 181.244C 2945.12 181.244 3726.31 -184.273 3925.45 459.747C 4124.58 1103.77 -2.00346e-08 489.864 -2.00346e-08 489.864Z"/>
-<path id="path3_fill" fill-rule="evenodd" d="M -5.11523e-06 391.761C -5.11523e-06 391.761 200.652 94.1414 502.036 131.345C 803.421 168.548 768.332 283.118 1248.91 198.868C 1729.5 114.619 1892.28 -117.332 2243.83 73.2026C 2595.38 263.738 2818.81 144.947 2818.81 144.947C 2818.81 144.947 3566.5 -147.37 3757.09 367.675C 3947.68 882.72 -5.11523e-06 391.761 -5.11523e-06 391.761Z"/>
-</defs>
+<svg width="3932" height="575" viewBox="0 0 3932 575" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mask id="a">
+    <rect x="0" y="-396" width="3932" height="971" fill="#FFF"/>
+  </mask>
+  <g mask="url(#a)">
+    <use xlink:href="#b" transform="translate(3080 95)" fill="#0D4C63"/>
+    <use xlink:href="#c" transform="translate(465 0)" fill="#0D4C63"/>
+    <use xlink:href="#d" transform="translate(0 87)" fill="#0D4C63"/>
+    <use xlink:href="#e" transform="translate(164 192)" fill="#1A6681"/>
+  </g>
+  <defs>
+    <path id="b" fill-rule="evenodd" d="M0 132.02L70.052 0l61.238 137.123L0 132.02z"/>
+    <path id="c" fill-rule="evenodd" d="M414.809 368.426l-19.722 37.165 109.488 4.255-51.069-114.343-37.646 70.944-50.151-112.288-44.444 83.754-43.353-97.068-58.419 110.088 92.945 3.613-5.148 9.701 107.519 4.179zM0 283.161l58.419-110.089 51.068 114.344L0 283.161zm1580.35-173.073L1638.77 0l51.07 114.344-109.49-4.256zm-131.7 29.871l58.42-110.088 51.07 114.344-109.49-4.256z"/>
+    <path id="d" fill-rule="evenodd" d="M0 489.864s209.643-372.148 524.533-325.628c314.889 46.519 278.228 189.779 780.347 84.432C1807 143.321 1977.07-146.714 2344.38 91.534c367.3 238.247 600.74 89.71 600.74 89.71s781.19-365.517 980.33 278.503C4124.58 1103.77 0 489.864 0 489.864z"/>
+    <path id="e" fill-rule="evenodd" d="M0 391.761s200.652-297.62 502.036-260.416c301.385 37.203 266.296 151.773 746.874 67.523 480.59-84.249 643.37-316.2 994.92-125.665 351.55 190.535 574.98 71.744 574.98 71.744s747.69-292.317 938.28 222.728C3947.68 882.72 0 391.761 0 391.761z"/>
+  </defs>
 </svg>

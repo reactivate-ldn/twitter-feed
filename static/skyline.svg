@@ -1,596 +1,249 @@
-<svg width="2003" height="1006" viewBox="0 0 2003 1006" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>Mask Group</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(2365 1077)" figma:type="canvas">
-<g id="Mask Group" figma:type="frame">
-<mask id="mask0_outline" mask-type="alpha">
-<g id="Rectangle" figma:type="rounded-rectangle">
-<use xlink:href="#path0_fill" transform="translate(-2365 -1077)" fill="#C4C4C4"/>
-</g>
-</mask>
-<g id="Building2" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path1_fill" transform="translate(-1967.51 -1076.04)" fill="#003B50"/>
-</g>
-<g id="Rectangle-16" figma:type="vector">
-<use xlink:href="#path2_fill" transform="translate(-1809.38 -930.007)" fill="#BDD8E1"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path3_fill" transform="translate(-1775.78 -888.623)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path4_fill" transform="translate(-1897.45 -888.623)" fill="#D7F5FF"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path5_fill" transform="translate(-1661.48 -888.623)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path6_fill" transform="translate(-1775.78 -704.879)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path7_fill" transform="translate(-1661.48 -704.879)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path8_fill" transform="translate(-1775.78 -521.136)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path9_fill" transform="translate(-1661.48 -521.136)" fill="#003B50"/>
-</g>
-<g id="Rectangle-13" figma:type="vector">
-<use xlink:href="#path10_fill" transform="translate(-1967.37 -1077)" fill="#DDEBF0"/>
-</g>
-</g>
-<g id="building" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path11_fill" transform="translate(-849 -931.605)" fill="#202D43"/>
-</g>
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path12_fill" transform="translate(-657.734 -931.777)" fill="#E0F4F1"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path13_fill" transform="translate(-597.521 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path14_fill" transform="translate(-555.017 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path15_fill" transform="translate(-512.514 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path16_fill" transform="translate(-470.01 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path17_fill" transform="translate(-427.507 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path18_fill" transform="translate(-597.521 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path19_fill" transform="translate(-555.017 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path20_fill" transform="translate(-512.514 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path21_fill" transform="translate(-470.01 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path22_fill" transform="translate(-427.507 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path23_fill" transform="translate(-817.122 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path24_fill" transform="translate(-781.703 -634.031)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-746.283 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path26_fill" transform="translate(-710.864 -634.031)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path27_fill" transform="translate(-817.122 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path28_fill" transform="translate(-781.703 -743.914)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-746.283 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-710.864 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path31_fill" transform="translate(-817.122 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path32_fill" transform="translate(-781.703 -524.149)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-746.283 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-710.864 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path23_fill" transform="translate(-817.122 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-746.283 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path27_fill" transform="translate(-817.122 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-746.283 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-710.864 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path31_fill" transform="translate(-817.122 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-746.283 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-710.864 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-816.864 -302.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-781.864 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-746.864 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-710.864 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-816.864 -412.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-781.864 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-746.864 -412.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-710.864 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-816.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-781.864 -193.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-746.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-710.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-816.864 -302.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-781.864 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-710.864 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-816.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-746.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-710.864 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path39_fill" transform="translate(-597.521 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path40_fill" transform="translate(-555.017 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path41_fill" transform="translate(-512.514 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path42_fill" transform="translate(-470.01 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path43_fill" transform="translate(-427.507 -524.149)" fill="#79B1A9"/>
-</g>
-</g>
-<g id="building" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path11_fill" transform="translate(-2365 -931.605)" fill="#202D43"/>
-</g>
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path12_fill" transform="translate(-2173.73 -931.777)" fill="#E0F4F1"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path13_fill" transform="translate(-2113.52 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path14_fill" transform="translate(-2071.02 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path15_fill" transform="translate(-2028.51 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path16_fill" transform="translate(-1986.01 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path17_fill" transform="translate(-1943.51 -743.914)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path18_fill" transform="translate(-2113.52 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path19_fill" transform="translate(-2071.02 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path20_fill" transform="translate(-2028.51 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path21_fill" transform="translate(-1986.01 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path22_fill" transform="translate(-1943.51 -634.031)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path23_fill" transform="translate(-2333.12 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path24_fill" transform="translate(-2297.7 -634.031)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-2262.28 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path26_fill" transform="translate(-2226.86 -634.031)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path27_fill" transform="translate(-2333.12 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path28_fill" transform="translate(-2297.7 -743.914)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-2262.28 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-2226.86 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path31_fill" transform="translate(-2333.12 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path32_fill" transform="translate(-2297.7 -524.149)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-2262.28 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-2226.86 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path23_fill" transform="translate(-2333.12 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-2262.28 -634.031)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path27_fill" transform="translate(-2333.12 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-2262.28 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-2226.86 -743.914)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path31_fill" transform="translate(-2333.12 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-2262.28 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-2226.86 -524.149)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-2332.86 -302.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-2297.86 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-2262.86 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-2226.86 -302.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-2332.86 -412.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-2297.86 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-2262.86 -412.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-2226.86 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-2332.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-2297.86 -193.266)" fill="#3367AB"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-2262.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-2226.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-2332.86 -302.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path36_fill" transform="translate(-2297.86 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-2226.86 -412.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path35_fill" transform="translate(-2332.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path37_fill" transform="translate(-2262.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path38_fill" transform="translate(-2226.86 -193.266)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path39_fill" transform="translate(-2113.52 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path40_fill" transform="translate(-2071.02 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path41_fill" transform="translate(-2028.51 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path42_fill" transform="translate(-1986.01 -524.149)" fill="#79B1A9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path43_fill" transform="translate(-1943.51 -524.149)" fill="#79B1A9"/>
-</g>
-</g>
-<g id="building" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path44_fill" transform="translate(-1534.97 -754.65)" fill="#202D43"/>
-</g>
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path45_fill" transform="translate(-1343.7 -754.823)" fill="#194859"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path13_fill" transform="translate(-1283.49 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path14_fill" transform="translate(-1240.99 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path15_fill" transform="translate(-1198.48 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path16_fill" transform="translate(-1155.98 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path17_fill" transform="translate(-1113.48 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path46_fill" transform="translate(-1283.49 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path47_fill" transform="translate(-1240.99 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path48_fill" transform="translate(-1198.48 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path49_fill" transform="translate(-1155.98 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path50_fill" transform="translate(-1113.48 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path23_fill" transform="translate(-1503.09 -457.077)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path24_fill" transform="translate(-1467.67 -457.077)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-1432.25 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path26_fill" transform="translate(-1396.83 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path27_fill" transform="translate(-1503.09 -566.959)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path28_fill" transform="translate(-1467.67 -566.959)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-1432.25 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-1396.83 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path31_fill" transform="translate(-1503.09 -347.194)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path32_fill" transform="translate(-1467.67 -347.194)" fill="#58948B"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-1432.25 -347.194)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-1396.83 -347.194)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path13_fill" transform="translate(-1283.49 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path14_fill" transform="translate(-1240.99 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path15_fill" transform="translate(-1198.48 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path16_fill" transform="translate(-1155.98 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path17_fill" transform="translate(-1113.48 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path46_fill" transform="translate(-1283.49 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path47_fill" transform="translate(-1240.99 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path48_fill" transform="translate(-1198.48 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path49_fill" transform="translate(-1155.98 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy-2" figma:type="vector">
-<use xlink:href="#path50_fill" transform="translate(-1113.48 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path25_fill" transform="translate(-1432.25 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path26_fill" transform="translate(-1396.83 -457.077)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path29_fill" transform="translate(-1432.25 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path30_fill" transform="translate(-1396.83 -566.959)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path33_fill" transform="translate(-1432.25 -347.194)" fill="#FFF4D9"/>
-</g>
-<g id="Rectangle-11-Copy" figma:type="vector">
-<use xlink:href="#path34_fill" transform="translate(-1396.83 -347.194)" fill="#FFF4D9"/>
-</g>
-</g>
-<g id="Building2" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Combined-Shape" figma:type="vector">
-<use xlink:href="#path51_fill" transform="translate(-1811.37 -1074.44)" fill="#003B50"/>
-</g>
-<g id="Rectangle-16" figma:type="vector">
-<use xlink:href="#path52_fill" transform="translate(-1653.33 -928.412)" fill="#BDD8E1"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path53_fill" transform="translate(-1619.74 -887.029)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path54_fill" transform="translate(-1741.35 -887.029)" fill="#D7F5FF"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path55_fill" transform="translate(-1505.5 -887.029)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path56_fill" transform="translate(-1619.74 -766.582)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path57_fill" transform="translate(-1505.5 -766.582)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path58_fill" transform="translate(-1619.74 -519.561)" fill="#003B50"/>
-</g>
-<g id="Rectangle-11" figma:type="vector">
-<use xlink:href="#path59_fill" transform="translate(-1505.5 -519.561)" fill="#003B50"/>
-</g>
-<g id="Rectangle-13" figma:type="vector">
-<use xlink:href="#path60_fill" transform="translate(-1811.24 -1075.4)" fill="#DDEBF0"/>
-</g>
-</g>
-</g>
-</g>
+<svg width="2003" height="1006" viewBox="0 0 2003 1006" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <g transform="translate(2365 1077)">
+      <g>
+        <use xlink:href="#c" transform="translate(-1967.51 -1076.04)" fill="#003B50"/>
+        <use xlink:href="#d" transform="translate(-1809.38 -930.007)" fill="#BDD8E1"/>
+        <use xlink:href="#e" transform="translate(-1775.78 -888.623)" fill="#003B50"/>
+        <use xlink:href="#f" transform="translate(-1897.45 -888.623)" fill="#D7F5FF"/>
+        <use xlink:href="#g" transform="translate(-1661.48 -888.623)" fill="#003B50"/>
+        <use xlink:href="#h" transform="translate(-1775.78 -704.879)" fill="#003B50"/>
+        <use xlink:href="#i" transform="translate(-1661.48 -704.879)" fill="#003B50"/>
+        <use xlink:href="#j" transform="translate(-1775.78 -521.136)" fill="#003B50"/>
+        <use xlink:href="#k" transform="translate(-1661.48 -521.136)" fill="#003B50"/>
+        <use xlink:href="#l" transform="translate(-1967.37 -1077)" fill="#DDEBF0"/>
+      </g>
+      <g>
+          <use xlink:href="#m" transform="translate(-849 -931.605)" fill="#202D43"/>
+          <use xlink:href="#n" transform="translate(-657.734 -931.777)" fill="#E0F4F1"/>
+          <use xlink:href="#o" transform="translate(-597.521 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#p" transform="translate(-555.017 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#q" transform="translate(-512.514 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#r" transform="translate(-470.01 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#s" transform="translate(-427.507 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#t" transform="translate(-597.521 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#u" transform="translate(-555.017 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#v" transform="translate(-512.514 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#w" transform="translate(-470.01 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#x" transform="translate(-427.507 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#y" transform="translate(-817.122 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#z" transform="translate(-781.703 -634.031)" fill="#3367AB"/>
+          <use xlink:href="#A" transform="translate(-746.283 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#B" transform="translate(-710.864 -634.031)" fill="#3367AB"/>
+          <use xlink:href="#C" transform="translate(-817.122 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#D" transform="translate(-781.703 -743.914)" fill="#3367AB"/>
+          <use xlink:href="#E" transform="translate(-746.283 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-710.864 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#G" transform="translate(-817.122 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#H" transform="translate(-781.703 -524.149)" fill="#3367AB"/>
+          <use xlink:href="#I" transform="translate(-746.283 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-710.864 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#y" transform="translate(-817.122 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#A" transform="translate(-746.283 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#C" transform="translate(-817.122 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#E" transform="translate(-746.283 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-710.864 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#G" transform="translate(-817.122 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#I" transform="translate(-746.283 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-710.864 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-816.864 -302.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-781.864 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#M" transform="translate(-746.864 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#N" transform="translate(-710.864 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#K" transform="translate(-816.864 -412.266)" fill="#3367AB"/>
+          <use xlink:href="#L" transform="translate(-781.864 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#M" transform="translate(-746.864 -412.266)" fill="#3367AB"/>
+          <use xlink:href="#N" transform="translate(-710.864 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-816.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-781.864 -193.266)" fill="#3367AB"/>
+          <use xlink:href="#M" transform="translate(-746.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-710.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-816.864 -302.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-781.864 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-710.864 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-816.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#M" transform="translate(-746.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-710.864 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#O" transform="translate(-597.521 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#P" transform="translate(-555.017 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#Q" transform="translate(-512.514 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#R" transform="translate(-470.01 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#S" transform="translate(-427.507 -524.149)" fill="#79B1A9"/>
+      </g>
+      <g>
+          <use xlink:href="#m" transform="translate(-2365 -931.605)" fill="#202D43"/>
+          <use xlink:href="#n" transform="translate(-2173.73 -931.777)" fill="#E0F4F1"/>
+          <use xlink:href="#o" transform="translate(-2113.52 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#p" transform="translate(-2071.02 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#q" transform="translate(-2028.51 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#r" transform="translate(-1986.01 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#s" transform="translate(-1943.51 -743.914)" fill="#79B1A9"/>
+          <use xlink:href="#t" transform="translate(-2113.52 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#u" transform="translate(-2071.02 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#v" transform="translate(-2028.51 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#w" transform="translate(-1986.01 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#x" transform="translate(-1943.51 -634.031)" fill="#79B1A9"/>
+          <use xlink:href="#y" transform="translate(-2333.12 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#z" transform="translate(-2297.7 -634.031)" fill="#3367AB"/>
+          <use xlink:href="#A" transform="translate(-2262.28 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#B" transform="translate(-2226.86 -634.031)" fill="#3367AB"/>
+          <use xlink:href="#C" transform="translate(-2333.12 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#D" transform="translate(-2297.7 -743.914)" fill="#3367AB"/>
+          <use xlink:href="#E" transform="translate(-2262.28 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-2226.86 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#G" transform="translate(-2333.12 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#H" transform="translate(-2297.7 -524.149)" fill="#3367AB"/>
+          <use xlink:href="#I" transform="translate(-2262.28 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-2226.86 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#y" transform="translate(-2333.12 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#A" transform="translate(-2262.28 -634.031)" fill="#FFF4D9"/>
+          <use xlink:href="#C" transform="translate(-2333.12 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#E" transform="translate(-2262.28 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-2226.86 -743.914)" fill="#FFF4D9"/>
+          <use xlink:href="#G" transform="translate(-2333.12 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#I" transform="translate(-2262.28 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-2226.86 -524.149)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-2332.86 -302.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-2297.86 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#M" transform="translate(-2262.86 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#N" transform="translate(-2226.86 -302.266)" fill="#3367AB"/>
+          <use xlink:href="#K" transform="translate(-2332.86 -412.266)" fill="#3367AB"/>
+          <use xlink:href="#L" transform="translate(-2297.86 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#M" transform="translate(-2262.86 -412.266)" fill="#3367AB"/>
+          <use xlink:href="#N" transform="translate(-2226.86 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-2332.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-2297.86 -193.266)" fill="#3367AB"/>
+          <use xlink:href="#M" transform="translate(-2262.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-2226.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-2332.86 -302.266)" fill="#FFF4D9"/>
+          <use xlink:href="#L" transform="translate(-2297.86 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-2226.86 -412.266)" fill="#FFF4D9"/>
+          <use xlink:href="#K" transform="translate(-2332.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#M" transform="translate(-2262.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#N" transform="translate(-2226.86 -193.266)" fill="#FFF4D9"/>
+          <use xlink:href="#O" transform="translate(-2113.52 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#P" transform="translate(-2071.02 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#Q" transform="translate(-2028.51 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#R" transform="translate(-1986.01 -524.149)" fill="#79B1A9"/>
+          <use xlink:href="#S" transform="translate(-1943.51 -524.149)" fill="#79B1A9"/>
+      </g>
+      <g>
+          <use xlink:href="#T" transform="translate(-1534.97 -754.65)" fill="#202D43"/>
+          <use xlink:href="#U" transform="translate(-1343.7 -754.823)" fill="#194859"/>
+          <use xlink:href="#o" transform="translate(-1283.49 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#p" transform="translate(-1240.99 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#q" transform="translate(-1198.48 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#r" transform="translate(-1155.98 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#s" transform="translate(-1113.48 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#V" transform="translate(-1283.49 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#W" transform="translate(-1240.99 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#X" transform="translate(-1198.48 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#Y" transform="translate(-1155.98 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#Z" transform="translate(-1113.48 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#y" transform="translate(-1503.09 -457.077)" fill="#58948B"/>
+          <use xlink:href="#z" transform="translate(-1467.67 -457.077)" fill="#58948B"/>
+          <use xlink:href="#A" transform="translate(-1432.25 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#B" transform="translate(-1396.83 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#C" transform="translate(-1503.09 -566.959)" fill="#58948B"/>
+          <use xlink:href="#D" transform="translate(-1467.67 -566.959)" fill="#58948B"/>
+          <use xlink:href="#E" transform="translate(-1432.25 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-1396.83 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#G" transform="translate(-1503.09 -347.194)" fill="#58948B"/>
+          <use xlink:href="#H" transform="translate(-1467.67 -347.194)" fill="#58948B"/>
+          <use xlink:href="#I" transform="translate(-1432.25 -347.194)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-1396.83 -347.194)" fill="#FFF4D9"/>
+          <use xlink:href="#o" transform="translate(-1283.49 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#p" transform="translate(-1240.99 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#q" transform="translate(-1198.48 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#r" transform="translate(-1155.98 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#s" transform="translate(-1113.48 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#V" transform="translate(-1283.49 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#W" transform="translate(-1240.99 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#X" transform="translate(-1198.48 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#Y" transform="translate(-1155.98 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#Z" transform="translate(-1113.48 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#A" transform="translate(-1432.25 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#B" transform="translate(-1396.83 -457.077)" fill="#FFF4D9"/>
+          <use xlink:href="#E" transform="translate(-1432.25 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#F" transform="translate(-1396.83 -566.959)" fill="#FFF4D9"/>
+          <use xlink:href="#I" transform="translate(-1432.25 -347.194)" fill="#FFF4D9"/>
+          <use xlink:href="#J" transform="translate(-1396.83 -347.194)" fill="#FFF4D9"/>
+      </g>
+      <g>
+          <use xlink:href="#aa" transform="translate(-1811.37 -1074.44)" fill="#003B50"/>
+          <use xlink:href="#ab" transform="translate(-1653.33 -928.412)" fill="#BDD8E1"/>
+          <use xlink:href="#ac" transform="translate(-1619.74 -887.029)" fill="#003B50"/>
+          <use xlink:href="#ad" transform="translate(-1741.35 -887.029)" fill="#D7F5FF"/>
+          <use xlink:href="#ae" transform="translate(-1505.5 -887.029)" fill="#003B50"/>
+          <use xlink:href="#af" transform="translate(-1619.74 -766.582)" fill="#003B50"/>
+          <use xlink:href="#ag" transform="translate(-1505.5 -766.582)" fill="#003B50"/>
+          <use xlink:href="#ah" transform="translate(-1619.74 -519.561)" fill="#003B50"/>
+          <use xlink:href="#ai" transform="translate(-1505.5 -519.561)" fill="#003B50"/>
+          <use xlink:href="#aj" transform="translate(-1811.24 -1075.4)" fill="#DDEBF0"/>
+      </g>
+    </g>
+  </g>
 <defs>
-<path id="path0_fill" d="M 0 0L 2003 0L 2003 1006L 0 1006L 0 0Z"/>
-<path id="path1_fill" fill-rule="evenodd" d="M 165.919 224.61L 165.919 112.305L 165.919 -9.43908e-11L 0 -9.43908e-11L 0 230.561L 0 1287.01L 182.51 1287.01L 365.021 1287.01L 353.96 269.532L 165.919 -9.43908e-11L 165.919 112.305L 165.919 224.61Z"/>
-<path id="path2_fill" fill-rule="evenodd" d="M -4.04492e-06 1.55371e-06L 206.477 1.55371e-06L 206.897 541.167L 0.420391 541.167L -4.04492e-06 1.55371e-06Z"/>
-<path id="path3_fill" d="M 14.7483 6.55566e-06L -7.32715e-06 6.55566e-06L -7.32715e-06 69.8226L 14.7483 69.8226L 14.7483 6.55566e-06Z"/>
-<path id="path4_fill" d="M 14.7483 6.55566e-06L 2.98271e-06 6.55566e-06L 2.98271e-06 69.8226L 14.7483 69.8226L 14.7483 6.55566e-06Z"/>
-<path id="path5_fill" d="M 14.7483 6.55566e-06L -1.00742e-05 6.55566e-06L -1.00742e-05 69.8226L 14.7483 69.8226L 14.7483 6.55566e-06Z"/>
-<path id="path6_fill" d="M 14.7483 5.12305e-06L -7.32715e-06 5.12305e-06L -7.32715e-06 69.8226L 14.7483 69.8226L 14.7483 5.12305e-06Z"/>
-<path id="path7_fill" d="M 14.7483 5.12305e-06L -1.00742e-05 5.12305e-06L -1.00742e-05 69.8226L 14.7483 69.8226L 14.7483 5.12305e-06Z"/>
-<path id="path8_fill" d="M 14.7483 1.89492e-05L -7.32715e-06 1.89492e-05L -7.32715e-06 69.8226L 14.7483 69.8226L 14.7483 1.89492e-05Z"/>
-<path id="path9_fill" d="M 14.7483 1.89492e-05L -1.00742e-05 1.89492e-05L -1.00742e-05 69.8226L 14.7483 69.8226L 14.7483 1.89492e-05Z"/>
-<path id="path10_fill" fill-rule="evenodd" d="M 204.854 -4.85846e-10L 364.886 147.954L 158.409 147.954L 6.15925e-09 -4.85846e-10L 204.854 -4.85846e-10Z"/>
-<path id="path11_fill" fill-rule="evenodd" d="M 486.107 179.54L 486.107 1096.09L 243.054 1096.09L 0 1096.09L 0 179.54L 146.225 0.0456096L 337.113 4.59631e-09L 486.107 179.54Z"/>
-<path id="path12_fill" fill-rule="evenodd" d="M -6.70898e-07 179.712L 146.403 0L 295.257 179.712L 295.257 1142.39L -6.70898e-07 1142.39L -6.70898e-07 179.712Z"/>
-<path id="path13_fill" d="M 14.1678 -6.02148e-06L 5.94141e-06 -6.02148e-06L 5.94141e-06 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path14_fill" d="M 14.1678 -6.02148e-06L 1.24629e-05 -6.02148e-06L 1.24629e-05 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path15_fill" d="M 14.1678 -6.02148e-06L -1.15332e-05 -6.02148e-06L -1.15332e-05 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path16_fill" d="M 14.1678 -6.02148e-06L -5.01172e-06 -6.02148e-06L -5.01172e-06 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path17_fill" d="M 14.1678 -6.02148e-06L 0 -6.02148e-06L 0 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path18_fill" d="M 14.1678 0L 5.94141e-06 0L 5.94141e-06 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path19_fill" d="M 14.1678 0L 1.24629e-05 0L 1.24629e-05 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path20_fill" d="M 14.1678 0L -1.15332e-05 0L -1.15332e-05 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path21_fill" d="M 14.1678 0L -5.01172e-06 0L -5.01172e-06 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path22_fill" d="M 14.1678 0L 0 0L 0 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path23_fill" d="M 14.1678 0L 0 0L 0 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path24_fill" d="M 14.1678 0L -2.20664e-06 0L -2.20664e-06 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path25_fill" d="M 14.1678 0L -2.125e-06 0L -2.125e-06 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path26_fill" d="M 14.1678 0L 0 0L 0 67.3474L 14.1678 67.3474L 14.1678 0Z"/>
-<path id="path27_fill" d="M 14.1678 -6.02148e-06L 0 -6.02148e-06L 0 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path28_fill" d="M 14.1678 -6.02148e-06L -2.20664e-06 -6.02148e-06L -2.20664e-06 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path29_fill" d="M 14.1678 -6.02148e-06L -2.125e-06 -6.02148e-06L -2.125e-06 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path30_fill" d="M 14.1678 -6.02148e-06L 0 -6.02148e-06L 0 67.3474L 14.1678 67.3474L 14.1678 -6.02148e-06Z"/>
-<path id="path31_fill" d="M 14.1678 4.66211e-06L 0 4.66211e-06L 0 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path32_fill" d="M 14.1678 4.66211e-06L -2.20664e-06 4.66211e-06L -2.20664e-06 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path33_fill" d="M 14.1678 4.66211e-06L -2.125e-06 4.66211e-06L -2.125e-06 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path34_fill" d="M 14.1678 4.66211e-06L 0 4.66211e-06L 0 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path35_fill" d="M 14.1678 9.50391e-06L 0 9.50391e-06L 0 67.3474L 14.1678 67.3474L 14.1678 9.50391e-06Z"/>
-<path id="path36_fill" d="M 14.1678 9.50391e-06L 0 9.50391e-06L 0 67.3474L 14.1678 67.3474L 14.1678 9.50391e-06Z"/>
-<path id="path37_fill" d="M 14.1678 9.50391e-06L 0 9.50391e-06L 0 67.3474L 14.1678 67.3474L 14.1678 9.50391e-06Z"/>
-<path id="path38_fill" d="M 14.1678 9.50391e-06L 0 9.50391e-06L 0 67.3474L 14.1678 67.3474L 14.1678 9.50391e-06Z"/>
-<path id="path39_fill" d="M 14.1678 4.66211e-06L 5.94141e-06 4.66211e-06L 5.94141e-06 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path40_fill" d="M 14.1678 4.66211e-06L 1.24629e-05 4.66211e-06L 1.24629e-05 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path41_fill" d="M 14.1678 4.66211e-06L -1.15332e-05 4.66211e-06L -1.15332e-05 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path42_fill" d="M 14.1678 4.66211e-06L -5.01172e-06 4.66211e-06L -5.01172e-06 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path43_fill" d="M 14.1678 4.66211e-06L 0 4.66211e-06L 0 67.3474L 14.1678 67.3474L 14.1678 4.66211e-06Z"/>
-<path id="path44_fill" fill-rule="evenodd" d="M 486.107 179.54L 486.107 885.133L 243.054 885.133L 0 885.133L 0 179.54L 146.225 0.0456096L 337.113 4.59631e-09L 486.107 179.54Z"/>
-<path id="path45_fill" fill-rule="evenodd" d="M -6.70898e-07 179.712L 146.403 0L 295.257 179.712L 295.257 928.384L -6.70898e-07 928.384L -6.70898e-07 179.712Z"/>
-<path id="path46_fill" d="M 14.1678 0L 5.94141e-06 0L 5.94141e-06 40.0857L 14.1678 40.0857L 14.1678 0Z"/>
-<path id="path47_fill" d="M 14.1678 0L 1.24629e-05 0L 1.24629e-05 40.0857L 14.1678 40.0857L 14.1678 0Z"/>
-<path id="path48_fill" d="M 14.1678 0L -1.15332e-05 0L -1.15332e-05 40.0857L 14.1678 40.0857L 14.1678 0Z"/>
-<path id="path49_fill" d="M 14.1678 0L -5.01172e-06 0L -5.01172e-06 40.0857L 14.1678 40.0857L 14.1678 0Z"/>
-<path id="path50_fill" d="M 14.1678 0L 0 0L 0 40.0857L 14.1678 40.0857L 14.1678 0Z"/>
-<path id="path51_fill" fill-rule="evenodd" d="M 165.833 249.48L 165.833 124.74L 165.833 -2.14294e-09L 0 -2.14294e-09L 0 256.09L 0 1429.52L 182.417 1429.52L 364.833 1429.52L 353.778 299.376L 165.833 -2.14294e-09L 165.833 124.74L 165.833 249.48Z"/>
-<path id="path52_fill" fill-rule="evenodd" d="M 6.38574e-06 -2.79102e-06L 206.37 -2.79102e-06L 206.791 1283.49L 0.420172 1283.49L 6.38574e-06 -2.79102e-06Z"/>
-<path id="path53_fill" d="M 14.7407 -7.27832e-06L 7.1543e-06 -7.27832e-06L 7.1543e-06 69.8189L 14.7407 69.8189L 14.7407 -7.27832e-06Z"/>
-<path id="path54_fill" d="M 14.7407 -7.27832e-06L 0 -7.27832e-06L 0 69.8189L 14.7407 69.8189L 14.7407 -7.27832e-06Z"/>
-<path id="path55_fill" d="M 14.7407 -7.27832e-06L 5.81055e-06 -7.27832e-06L 5.81055e-06 69.8189L 14.7407 69.8189L 14.7407 -7.27832e-06Z"/>
-<path id="path56_fill" d="M 14.7407 0L 7.1543e-06 0L 7.1543e-06 69.819L 14.7407 69.819L 14.7407 0Z"/>
-<path id="path57_fill" d="M 14.7407 0L 5.81055e-06 0L 5.81055e-06 69.819L 14.7407 69.819L 14.7407 0Z"/>
-<path id="path58_fill" d="M 14.7407 1.06641e-05L 7.1543e-06 1.06641e-05L 7.1543e-06 69.819L 14.7407 69.819L 14.7407 1.06641e-05Z"/>
-<path id="path59_fill" d="M 14.7407 1.06641e-05L 5.81055e-06 1.06641e-05L 5.81055e-06 69.819L 14.7407 69.819L 14.7407 1.06641e-05Z"/>
-<path id="path60_fill" fill-rule="evenodd" d="M 204.749 -2.20699e-08L 364.698 147.946L 158.328 147.946L -2.54843e-09 -2.20699e-08L 204.749 -2.20699e-08Z"/>
+    <path id="a" d="M0 0h2003v1006H0V0z"/>
+    <path id="c" fill-rule="evenodd" d="M165.919 224.61V0H0v1287.01H365.021L353.96 269.532 165.919 0v224.61z"/>
+    <path id="d" fill-rule="evenodd" d="M0 0h206.477l.42 541.167H.42L0 0z"/>
+    <path id="e" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="f" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="g" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="h" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="i" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="j" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="k" d="M14.748 0H0v69.823h14.748V0z"/>
+    <path id="l" fill-rule="evenodd" d="M204.854 0l160.032 147.954H158.409L0 0h204.854z"/>
+    <path id="m" fill-rule="evenodd" d="M486.107 179.54v916.55H0V179.54L146.225.046 337.113 0l148.994 179.54z"/>
+    <path id="n" fill-rule="evenodd" d="M0 179.712L146.403 0l148.854 179.712v962.678H0V179.712z"/>
+    <path id="o" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="p" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="q" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="r" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="s" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="t" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="u" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="v" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="w" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="x" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="y" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="z" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="A" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="B" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="C" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="D" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="E" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="F" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="G" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="H" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="I" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="J" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="K" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="L" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="M" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="N" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="O" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="P" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="Q" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="R" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="S" d="M14.168 0H0v67.347h14.168V0z"/>
+    <path id="T" fill-rule="evenodd" d="M486.107 179.54v705.593H0V179.54L146.225.046 337.113 0l148.994 179.54z"/>
+    <path id="U" fill-rule="evenodd" d="M0 179.712L146.403 0l148.854 179.712v748.672H0V179.712z"/>
+    <path id="V" d="M14.168 0H0v40.086h14.168V0z"/>
+    <path id="W" d="M14.168 0H0v40.086h14.168V0z"/>
+    <path id="X" d="M14.168 0H0v40.086h14.168V0z"/>
+    <path id="Y" d="M14.168 0H0v40.086h14.168V0z"/>
+    <path id="Z" d="M14.168 0H0v40.086h14.168V0z"/>
+    <path id="aa" fill-rule="evenodd" d="M165.833 249.48V0H0v1429.52H364.833L353.778 299.376 165.833 0v249.48z"/>
+    <path id="ab" fill-rule="evenodd" d="M0 0h206.37l.421 1283.49H.421L0 0z"/>
+    <path id="ac" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="ad" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="ae" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="af" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="ag" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="ah" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="ai" d="M14.74 0H0v69.819h14.74V0z"/>
+    <path id="aj" fill-rule="evenodd" d="M204.749 0l159.949 147.946h-206.37L0 0h204.749z"/>
 </defs>
 </svg>

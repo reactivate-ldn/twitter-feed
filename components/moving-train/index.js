@@ -1,5 +1,8 @@
 import styled, { keyframes } from 'styled-components'
 
+// The unit we're converting to is `vw`
+const size = px => (px / 1680 * 100).toFixed(2) + 'vw'
+
 const translateX = keyframes`
   from {
     background-position: 0vw 0px;
@@ -29,8 +32,8 @@ const Cloud = styled.div`
   background: url('/static/cloud.svg');
   background-repeat: no-repeat;
   background-size: contain;
-  height: 100px;
-  width: 150px;
+  height: ${size(100)};
+  width: ${size(150)};
   top: ${props => props.top};
   left: ${props => props.left};
   transform: scale(${props => props.scale});
@@ -38,15 +41,15 @@ const Cloud = styled.div`
 
 const Skyline = styled.div`
   position: absolute;
-  bottom: 35px;
+  bottom: ${size(35)};
   left: 0;
   right: 0;
   width: 100%;
-  height: 300px;
+  height: ${size(300)};
   background: url('/static/skyline.svg'), url('/static/skyline.min.svg');
   background-repeat: no-repeat, no-repeat;
-  background-position: 20% 50%, 105% 50%;
-  background-size: auto 300px, auto 300px;
+  background-position: 20% 0, 105% 0;
+  background-size: auto 100%, auto 100%;
   /* animation: 30s linear 0s ${translateX} both; */
 `
 
@@ -55,13 +58,13 @@ const Landscape = styled.div`
   left: 0;
   right: 0;
   width: 100%;
-  bottom: 80px;
-  height: 150px;
+  bottom: ${size(80)};
+  height: ${size(150)};
 
   background: url('/static/landscape.svg');
   background-repeat: repeat-x;
   background-position: bottom center;
-  background-size: auto 150px;
+  background-size: auto 100%;
   /* animation: ${translateX} 100s infinite linear both; */
 `
 
@@ -69,9 +72,9 @@ const Bridge = styled.div`
   position: absolute;
   left: 0;
   right: 0;
-  bottom: -5px;
+  bottom: ${size(-5)};
   width: 100%;
-  height: 115px;
+  height: ${size(115)};
 
   background: url('/static/bridge.svg');
   background-repeat: repeat-x;
@@ -83,14 +86,14 @@ const Train = styled.div`
   position: absolute;
   left: 35%;
   right: 0;
-  bottom: 110px;
+  bottom: ${size(110)};
   width: 100%;
-  height: 45px;
+  height: ${size(45)};
 
   background: url('/static/train.svg');
   background-repeat: no-repeat;
   background-position: 0% center;
-  background-size: auto 45px;
+  background-size: auto 100%;
 `
 
 const MovingTrain = () => (
