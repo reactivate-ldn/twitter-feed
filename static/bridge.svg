@@ -1,7 +1,7 @@
 <svg width="510" height="437" viewBox="0 0 510 437" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <rect x="0" y="0" width="510" height="437" fill="#2E86A6"/>
   <use xlink:href="#b" transform="translate(54 -33)" fill="#202D43"/>
-  <use xlink:href="#c" transform="translate(0 -1)" fill="#46BDE8"/>
+  <use xlink:href="#c" transform="translate(-1 -1)" fill="#46BDE8"/>
   <defs>
     <path id="b" fill-rule="evenodd" d="M118.914 299.405V484.11h280.332V299.405c0-77.401-62.754-140.158-140.166-140.158-77.407 0-140.166 62.75-140.166 140.158zM512 0v484.11H0V0h512z"/>
     <path id="c" fill-rule="evenodd" d="M119.414 266.905v170.978l280.332-.273V266.905c0-77.401-62.754-140.158-140.166-140.158-77.407 0-140.166 62.75-140.166 140.158zM512 0v437.5L0 438 .5 1 512 0z"/>

@@ -17,7 +17,7 @@ const moveSkyline = keyframes`
 
 const Skyline = styled.div`
   position: absolute;
-  bottom: ${size(35)};
+  bottom: ${size(34)};
   left: 0;
   right: 0;
   width: 100%;
