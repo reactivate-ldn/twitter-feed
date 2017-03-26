@@ -8,8 +8,13 @@ export default class TwitterFeed extends Component {
     tweets: []
   }
 
-  addTweet = tweet => {
-    this.setState({ tweets: [tweet] })
+  addTweet = ({ id, user: { screen_name, profile_image_url_https }, text }) => {
+    this.setState({ tweets: [{
+      id,
+      handle: `@${screen_name}`,
+      avatar: profile_image_url_https,
+      text
+    }] })
 
     if (this.timeout) {
       window.clearTimeout(this.timeout)
