@@ -1,37 +1,36 @@
 # react-live-tweets
+
 Demonstration of live twitter streams using React, Node (6 and above) and Socket.io (1.x.x).
 
 ## Installation
 
-Install with [npm](https://www.npmjs.com/)
-
 ```sh
-  npm install
+yarn install
 ```
 
 ## Usage
 
-Build:
+Set twitter access token and consumer key and secret as env variables, preferably in the `.env`:
+
+```
+CONSUMER_KEY=YOUR_CONSUMER_KEY
+CONSUMER_SECRET=YOUR_CONSUMER_SECRET
+ACCESS_TOKEN_KEY=YOUR_ACCESS_TOKEN_KEY
+ACCESS_TOKEN_SECRET=YOUR_ACCESS_TOKEN_SECRET
+```
+
+And start the development server:
 ```sh
-  npm run build
+yarn run dev
 ```
 
-Set twitter access_token and consumer key and secret as env variable :
-```
-export consumer_key=YOUR_CONSUMER_KEY
-export consumer_secret=YOUR_CONSUMER_SECRET
-export access_token_key=YOUR_ACCESS_TOKEN_KEY
-export access_token_secret=YOUR_ACCESS_TOKEN_SECRET
-```
+## Production
 
-Set Buzzword env variable (default: javascript) :
-```
-export buzzword=YOUR_BUZZWORD
-```
+Build and run with:
 
-And start server:
 ```sh
-  npm run start
+yarn run build
+yarn start
 ```
 
 ## Design Illustrations
