@@ -2,11 +2,10 @@
   "name": "reactivate-feed",
   "alias": "feed.reactivate.london",
   "env": {
-    "NODE_ENV": "production",
-    "consumer_key": "ntQ7zCpadMv0vTuOshWj6bx6w",
-    "consumer_secret": "X1Lg0uHIHcKYs8WTQX01x8vOs8WSbxfFo1V285FTRmXJjpDzDQ",
-    "access_token_key": "629330603-lnc8oMNU4klNkiGFaAjKNnvfZs3Ljf9fbNpjOBlA",
-    "access_token_secret": "NGzYR3I1raW2CJVwqYntT1cFgqyi2sBdQIoYZgNeoQnFA"
+    "CONSUMER_KEY": "ntQ7zCpadMv0vTuOshWj6bx6w",
+    "CONSUMER_SECRET": "X1Lg0uHIHcKYs8WTQX01x8vOs8WSbxfFo1V285FTRmXJjpDzDQ",
+    "ACCESS_TOKEN_KEY": "629330603-lnc8oMNU4klNkiGFaAjKNnvfZs3Ljf9fbNpjOBlA",
+    "ACCESS_TOKEN_SECRET": "NGzYR3I1raW2CJVwqYntT1cFgqyi2sBdQIoYZgNeoQnFA"
   },
   "type": "npm"
 }
