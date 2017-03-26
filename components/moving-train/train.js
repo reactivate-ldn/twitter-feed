@@ -5,7 +5,7 @@ const Train = styled.div`
   position: absolute;
   left: 35%;
   right: 0;
-  bottom: ${size(108)};
+  bottom: ${size(107)};
   width: 100%;
   height: ${size(45)};
 

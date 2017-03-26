@@ -15,6 +15,11 @@ const Wrapper = styled.div`
   bottom: 0;
   right: 0;
   overflow: hidden;
+
+  @media screen and (orientation:portrait) {
+    transform: scale(1.5);
+    transform-origin: bottom center;
+  }
 `
 
 const MovingTrain = () => (
