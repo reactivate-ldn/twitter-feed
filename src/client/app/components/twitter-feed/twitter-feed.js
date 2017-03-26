@@ -11,6 +11,14 @@ const TwitterFeed = React.createClass({
     },
     addTweet: function (tweet) {
         this.setState({ tweets: [tweet] });
+
+        if (this.timeout) {
+          window.clearTimeout(this.timeout)
+        }
+
+        this.timeout = window.setTimeout(() => {
+            this.setState({ tweets: [] })
+        }, 4000)
     },
     componentWillMount: function () {
         tweetStream(function (tweet) {
