@@ -1,569 +1,1112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="9061px" height="1807px" viewBox="0 0 9061 1807" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard 2 Copy 3</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M1057.66117,134.921387 C1077.50704,155.239302 1100.85977,223.78638 1014.54178,223.78638 C833.315037,223.78638 4.47265296,223.78638 4.47265296,223.78638 C2.00247494,223.78638 -3.63797881e-12,221.783377 -3.63797881e-12,219.316163 L-3.63797881e-12,33.5636515 C-3.63797881e-12,15.0269949 15.029741,0.00550405748 33.5679306,0.0118599506 C33.5679306,0.0118599506 552.16753,0.21022693 792.787643,6.56420584e-05 C907.539657,-0.100160522 1037.8153,114.603473 1057.66117,134.921387 Z" id="path-1"></path>
-        <rect id="path-3" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-5" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-7" x="3.63797881e-12" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-9"></path>
-        <rect id="path-11" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-13" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-15" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-17" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-19"></path>
-        <rect id="path-21" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-23" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-25" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-27" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-29"></path>
-        <rect id="path-31" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-33" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-35" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-37" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-39"></path>
-        <rect id="path-41" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-43" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-45" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-47" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-49"></path>
-        <rect id="path-51" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-53" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-55" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-57" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <path d="M0,41.3755338 C0,18.5244574 18.519367,0 41.3734248,0 L1022.36743,0 C1045.21734,0 1063.74085,18.5165531 1063.74085,41.3755338 L1063.74085,215.837202 C1063.74085,219.994607 1060.37521,223.364849 1056.21636,223.364849 L7.52449619,223.364849 C3.36883169,223.364849 0,219.989985 0,215.837202 L0,41.3755338 Z" id="path-59"></path>
-        <rect id="path-61" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-63" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-65" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-        <rect id="path-67" x="0" y="0" width="148.147154" height="58.1837407" rx="29.0918703"></rect>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-2-Copy-3">
-            <g id="Group" transform="translate(137.000000, 884.000000)">
-                <g id="Group-12" transform="translate(0.169783, 0.091286)"></g>
-            </g>
-            <g id="train" transform="translate(4386.000000, 523.000000) scale(-1, 1) translate(-4386.000000, -523.000000) translate(587.000000, 411.000000)">
-                <rect id="Rectangle-15" fill="#013B32" x="6454.95635" y="27.8771696" width="96.2599142" height="188.170895"></rect>
-                <g id="Group-2" transform="translate(6520.561622, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-2" fill="white">
-                                <use xlink:href="#path-1"></use>
-                            </mask>
-                            <g id="Combined-Shape">
-                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                                <use xlink:href="#path-1"></use>
-                            </g>
-                            <rect id="Rectangle-3" fill="#00E9C7" mask="url(#mask-2)" x="-24.6955215" y="176.983163" width="1124.76875" height="55.9465785"></rect>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-2)" x="-0.916585714" y="211.829625" width="1124.76875" height="55.9465785"></rect>
-                            <path d="M180.497518,198.382805 L1027.6403,198.382805" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-2)"></path>
-                            <path d="M105.287203,198.382805 L157.468665,198.382805" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-2)"></path>
-                            <path d="M57.5506601,198.382805 L82.2344534,198.382805" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-2)"></path>
-                            <g id="Group-3" mask="url(#mask-2)">
-                                <g transform="translate(396.001575, 64.699168)">
-                                    <mask id="mask-4" fill="white">
-                                        <use xlink:href="#path-3"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-3"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-4)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-4)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-4)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-2)">
-                                <g transform="translate(574.884303, 64.699168)">
-                                    <mask id="mask-6" fill="white">
-                                        <use xlink:href="#path-5"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-5"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-6)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-6)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-6)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-2)">
-                                <g transform="translate(217.118848, 64.699168)">
-                                    <mask id="mask-8" fill="white">
-                                        <use xlink:href="#path-7"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-7"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-8)"></path>
-                                    <path d="M277.94473,19.9744329 L334.328703,78.724893" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-8)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-8)"></path>
-                                </g>
-                            </g>
-                            <path d="M51.3161229,35.6687982 L862.615736,35.6687982" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" fill="#D8D8D8" mask="url(#mask-2)"></path>
-                            <path d="M181.91974,154.146769 L773.231681,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" fill="#D8D8D8" mask="url(#mask-2)"></path>
-                            <path d="M902.371607,154.146769 L959.011709,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" fill="#D8D8D8" mask="url(#mask-2)"></path>
-                            <g id="Group-5" mask="url(#mask-2)">
-                                <g transform="translate(71.485134, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-2)">
-                                <g transform="translate(813.613619, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="51.3259948" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="28.8668671" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <path d="M924.772164,68.6548442 C922.395835,66.6809065 922.974089,65.0807138 926.066417,65.0807138 L1094.47625,65.0807138 C1097.56738,65.0807138 1100.07323,67.5933093 1100.07323,70.6754074 L1100.07323,115.432599 C1100.07323,118.522463 1097.5713,121.027292 1094.48743,121.027292 L993.406662,121.027292 C990.321709,121.027292 985.895766,119.42818 983.518136,117.453162 L924.772164,68.6548442 Z" id="Rectangle-2" fill="#013E34" mask="url(#mask-2)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2" transform="translate(5423.600129, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-10" fill="white">
-                                <use xlink:href="#path-9"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-9"></use>
-                            <g id="Group-5" mask="url(#mask-10)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-10)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-10)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-10)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-10)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-12" fill="white">
-                                        <use xlink:href="#path-11"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-11"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-12)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-12)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-12)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-10)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-14" fill="white">
-                                        <use xlink:href="#path-13"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-13"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-14)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-14)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-14)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-10)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-16" fill="white">
-                                        <use xlink:href="#path-15"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-15"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-16)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-16)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-16)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-10)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-18" fill="white">
-                                        <use xlink:href="#path-17"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-17"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-18)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-18)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-18)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-10)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2" transform="translate(4338.000000, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-20" fill="white">
-                                <use xlink:href="#path-19"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-19"></use>
-                            <g id="Group-5" mask="url(#mask-20)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-20)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#01C3A7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-20)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-20)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-20)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-22" fill="white">
-                                        <use xlink:href="#path-21"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-21"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-22)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-22)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-22)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-20)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-24" fill="white">
-                                        <use xlink:href="#path-23"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-23"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-24)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-24)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-24)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-20)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-26" fill="white">
-                                        <use xlink:href="#path-25"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-25"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-26)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-26)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-26)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-20)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-28" fill="white">
-                                        <use xlink:href="#path-27"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-27"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-28)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-28)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-28)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-20)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2" transform="translate(3252.000000, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-30" fill="white">
-                                <use xlink:href="#path-29"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-29"></use>
-                            <g id="Group-5" mask="url(#mask-30)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-30)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#01C3A7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-30)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-30)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-30)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-32" fill="white">
-                                        <use xlink:href="#path-31"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-31"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-32)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-32)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-32)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-30)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-34" fill="white">
-                                        <use xlink:href="#path-33"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-33"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-34)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-34)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-34)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-30)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-36" fill="white">
-                                        <use xlink:href="#path-35"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-35"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-36)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-36)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-36)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-30)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-38" fill="white">
-                                        <use xlink:href="#path-37"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-37"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-38)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-38)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-38)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-30)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2" transform="translate(2168.000000, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-40" fill="white">
-                                <use xlink:href="#path-39"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-39"></use>
-                            <g id="Group-5" mask="url(#mask-40)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-40)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#01C3A7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-40)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-40)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-40)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-42" fill="white">
-                                        <use xlink:href="#path-41"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-41"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-42)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-42)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-42)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-40)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-44" fill="white">
-                                        <use xlink:href="#path-43"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-43"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-44)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-44)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-44)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-40)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-46" fill="white">
-                                        <use xlink:href="#path-45"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-45"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-46)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-46)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-46)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-40)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-48" fill="white">
-                                        <use xlink:href="#path-47"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-47"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-48)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-48)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-48)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-40)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2" transform="translate(1084.000000, 0.000000)">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-50" fill="white">
-                                <use xlink:href="#path-49"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-49"></use>
-                            <g id="Group-5" mask="url(#mask-50)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-50)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#01C3A7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-50)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-50)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-50)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-52" fill="white">
-                                        <use xlink:href="#path-51"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-51"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-52)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-52)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-52)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-50)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-54" fill="white">
-                                        <use xlink:href="#path-53"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-53"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-54)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-54)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-54)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-50)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-56" fill="white">
-                                        <use xlink:href="#path-55"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-55"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-56)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-56)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-56)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-50)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-58" fill="white">
-                                        <use xlink:href="#path-57"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-57"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-58)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-58)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-58)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-50)"></path>
-                        </g>
-                    </g>
-                </g>
-                <g id="Group-2">
-                    <g id="Group-7">
-                        <g id="train">
-                            <mask id="mask-60" fill="white">
-                                <use xlink:href="#path-59"></use>
-                            </mask>
-                            <use id="Rectangle-8" fill="#FFFFFF" xlink:href="#path-59"></use>
-                            <g id="Group-5" mask="url(#mask-60)">
-                                <g transform="translate(927.796842, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#00E9C7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#144253" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <g id="Group-5" mask="url(#mask-60)">
-                                <g transform="translate(68.333323, 54.640450)" id="Rectangle-2-Copy">
-                                    <rect fill="#01C3A7" x="0.356382811" y="0.0456706763" width="67.3514223" height="111.893157" rx="19.0212265"></rect>
-                                    <rect fill="#004D41" x="11.5816199" y="13.7468736" width="44.9009482" height="33.1112404" rx="5.59447837"></rect>
-                                </g>
-                            </g>
-                            <polygon id="Rectangle-3" fill="#00E9C7" mask="url(#mask-60)" points="0 174.927719 1080.30762 174.927719 1189.45744 236.537461 1189.45744 274.26144 0 274.26144"></polygon>
-                            <rect id="Rectangle-3" fill="#21314D" mask="url(#mask-60)" x="0" y="211.829625" width="1189.45744" height="55.9465785"></rect>
-                            <g id="Group-3" mask="url(#mask-60)">
-                                <g transform="translate(366.120415, 64.699168)">
-                                    <mask id="mask-62" fill="white">
-                                        <use xlink:href="#path-61"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-61"></use>
-                                    <path d="M52.093441,3.13897143 L108.477414,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-62)"></path>
-                                    <path d="M131.864985,-0.933444235 L188.248958,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-62)"></path>
-                                    <path d="M132.447539,-34.6562654 L188.831512,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-62)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-60)">
-                                <g transform="translate(545.003142, 64.699168)">
-                                    <mask id="mask-64" fill="white">
-                                        <use xlink:href="#path-63"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-63"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-64)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-64)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-64)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-60)">
-                                <g transform="translate(725.577643, 64.699168)">
-                                    <mask id="mask-66" fill="white">
-                                        <use xlink:href="#path-65"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-65"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-66)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-66)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-66)"></path>
-                                </g>
-                            </g>
-                            <g id="Group-3" mask="url(#mask-60)">
-                                <g transform="translate(187.237688, 64.699168)">
-                                    <mask id="mask-68" fill="white">
-                                        <use xlink:href="#path-67"></use>
-                                    </mask>
-                                    <use id="Rectangle-2" stroke="none" fill="#013E34" fill-rule="evenodd" xlink:href="#path-67"></use>
-                                    <path d="M-8.09805907,3.13897143 L48.2859137,61.8894315" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-68)"></path>
-                                    <path d="M71.6734853,-0.933444235 L128.057458,57.8170158" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-68)"></path>
-                                    <path d="M72.2560387,-34.6562654 L128.640012,24.0941947" id="Line" stroke="#D1E2FF" stroke-width="12.3078524" stroke-linecap="round" fill="none" opacity="0.419999987" mask="url(#mask-68)"></path>
-                                </g>
-                            </g>
-                            <path d="M419.307883,198.767812 L888.383428,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M30.6889984,198.767812 L379.562442,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M920.383355,198.767812 L972.564817,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M995.62273,198.767812 L1047.80419,198.767812" id="Line" stroke="#0B8E7A" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M309.37398,35.6687985 L1031.35622,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M171.859817,154.146769 L893.84206,154.146769" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                            <path d="M279.405548,35.6687985 L41.1770477,35.6687985" id="Line" stroke="#01C3A7" stroke-width="6.39368967" stroke-linecap="round" mask="url(#mask-60)"></path>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="7597" height="224" viewBox="0 0 7597 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>train</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4161 -2120)" figma:type="canvas">
+<g id="train" figma:type="frame">
+<g id="Rectangle-15" figma:type="vector">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 -3019.12 2147.88)" fill="#013B32"/>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="mask-2" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path1_fill" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Combined-Shape" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path1_fill" transform="matrix(-1 0 0 1 -3084.73 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path2_fill" transform="matrix(-1 0 0 1 -3060.03 2296.98)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path3_fill" transform="matrix(-1 0 0 1 -3083.81 2331.83)" fill="#21314D"/>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path4_stroke" transform="matrix(-1 0 0 1 -3265.23 2318.38)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path5_stroke" transform="matrix(-1 0 0 1 -3190.02 2318.38)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path6_stroke" transform="matrix(-1 0 0 1 -3142.28 2318.38)" fill="#0B8E7A"/>
+</g>
+<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask1_alpha" mask-type="alpha">
+<g id="mask-4" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask1_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3480.73 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3472.63 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -3552.4 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask1_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3552.99 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask2_alpha" mask-type="alpha">
+<g id="mask-6" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask2_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3659.61 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3651.52 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -3731.29 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask2_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3731.87 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask3_alpha" mask-type="alpha">
+<g id="mask-8" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask3_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3301.85 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask3_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -3293.75 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask3_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -3374.1 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path11_fill" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#D8D8D8"/>
+<use xlink:href="#path12_stroke" transform="matrix(-1 0 0 1 -3136.05 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path13_fill" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#D8D8D8"/>
+<use xlink:href="#path14_stroke" transform="matrix(-1 0 0 1 -3266.65 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path15_fill" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#D8D8D8"/>
+<use xlink:href="#path16_stroke" transform="matrix(-1 0 0 1 -3987.1 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Group-5" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -3156.57 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -3167.8 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path19_fill" transform="matrix(-1 0 0 1 -3898.7 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path20_fill" transform="matrix(-1 0 0 1 -3909.92 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-2" mask="url(#mask0_alpha)" figma:type="vector">
+<use xlink:href="#path21_fill" transform="matrix(-1 0 0 1 -4008.04 2185.08)" fill="#013E34"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask4_alpha" mask-type="alpha">
+<g id="mask-10" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -1987.77 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -2915.92 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -2927.15 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -2056.46 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -2067.68 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 -1987.77 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 -1987.77 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask5_alpha" mask-type="alpha">
+<g id="mask-12" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask5_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2353.89 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -2405.98 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -2485.75 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask5_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -2486.34 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask6_alpha" mask-type="alpha">
+<g id="mask-14" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask6_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2532.77 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2524.67 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2604.44 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask6_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2605.03 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask7_alpha" mask-type="alpha">
+<g id="mask-16" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask7_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2713.35 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2705.25 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2785.02 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask7_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2785.6 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask4_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask8_alpha" mask-type="alpha">
+<g id="mask-18" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask8_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -2175.01 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -2166.91 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -2246.68 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask8_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -2247.26 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -2407.08 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 -2018.46 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -2908.15 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -2983.39 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -2297.14 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 -2159.63 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask4_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 -2028.95 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask9_alpha" mask-type="alpha">
+<g id="mask-20" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 -902.168 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -1830.32 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -1841.55 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -970.858 2174.69)" fill="#01C3A7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -982.083 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 -902.168 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 -902.168 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask10_alpha" mask-type="alpha">
+<g id="mask-22" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask10_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1268.29 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -1320.38 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -1400.15 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask10_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -1400.74 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask11_alpha" mask-type="alpha">
+<g id="mask-24" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask11_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1447.17 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1439.07 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1518.84 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask11_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1519.43 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask12_alpha" mask-type="alpha">
+<g id="mask-26" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask12_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1627.75 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1619.65 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1699.42 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask12_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1700 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask9_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask13_alpha" mask-type="alpha">
+<g id="mask-28" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask13_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -1089.41 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -1081.31 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -1161.08 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask13_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -1161.66 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -1321.48 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 -932.857 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -1822.55 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -1897.79 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -1211.54 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 -1074.03 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask9_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 -943.345 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask14_alpha" mask-type="alpha">
+<g id="mask-30" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 183.832 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 -744.321 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 -755.546 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 115.142 2174.69)" fill="#01C3A7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 103.917 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 183.832 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 183.832 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask15_alpha" mask-type="alpha">
+<g id="mask-32" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask15_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -182.288 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 -234.382 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 -314.153 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask15_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 -314.736 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask16_alpha" mask-type="alpha">
+<g id="mask-34" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask16_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -361.171 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -353.073 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -432.845 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask16_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -433.427 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask17_alpha" mask-type="alpha">
+<g id="mask-36" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask17_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -541.746 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 -533.648 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -613.419 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask17_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -614.002 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask14_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask18_alpha" mask-type="alpha">
+<g id="mask-38" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3.40565 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask18_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 -3.40565 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 4.6924 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 -75.0791 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask18_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 -75.6617 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 -235.476 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 153.143 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 -736.551 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 -811.791 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 -125.542 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 11.9722 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask14_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 142.655 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask19_alpha" mask-type="alpha">
+<g id="mask-40" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 1267.83 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 339.679 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 328.454 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 1199.14 2174.69)" fill="#01C3A7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 1187.92 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 1267.83 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 1267.83 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask20_alpha" mask-type="alpha">
+<g id="mask-42" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask20_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 901.712 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 849.618 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 769.847 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask20_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 769.264 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask21_alpha" mask-type="alpha">
+<g id="mask-44" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask21_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 722.829 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 730.927 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 651.155 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask21_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 650.573 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask22_alpha" mask-type="alpha">
+<g id="mask-46" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask22_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 542.254 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 550.352 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 470.581 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask22_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 469.998 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask19_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask23_alpha" mask-type="alpha">
+<g id="mask-48" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask23_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1080.59 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1088.69 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1008.92 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask23_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1008.34 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 848.524 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 1237.14 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 347.449 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 272.209 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 958.458 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 1095.97 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask19_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 1226.66 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask24_alpha" mask-type="alpha">
+<g id="mask-50" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 2351.83 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 1423.68 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 1412.45 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 2283.14 2174.69)" fill="#01C3A7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 2271.92 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 2351.83 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 2351.83 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask25_alpha" mask-type="alpha">
+<g id="mask-52" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask25_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1985.71 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 1933.62 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 1853.85 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask25_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 1853.26 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask26_alpha" mask-type="alpha">
+<g id="mask-54" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask26_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1806.83 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1814.93 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1735.16 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask26_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1734.57 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask27_alpha" mask-type="alpha">
+<g id="mask-56" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask27_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 1626.25 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 1634.35 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 1554.58 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask27_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 1554 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask24_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask28_alpha" mask-type="alpha">
+<g id="mask-58" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask28_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2164.59 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2172.69 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2092.92 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask28_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2092.34 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 1932.52 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 2321.14 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 1431.45 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 1356.21 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 2042.46 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 2179.97 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask24_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 2310.66 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group-2" figma:type="frame">
+<g id="Group-7" figma:type="frame">
+<g id="train" figma:type="frame">
+<mask id="mask29_alpha" mask-type="alpha">
+<g id="mask-60" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-8" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path22_fill" transform="matrix(-1 0 0 1 3435.83 2120)" fill="#FFFFFF"/>
+</g>
+<g id="Group-5" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 2507.68 2174.69)" fill="#00E9C7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 2496.45 2188.39)" fill="#144253"/>
+</g>
+</g>
+</g>
+<g id="Group-5" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Rectangle-2-Copy" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path17_fill" transform="matrix(-1 0 0 1 3367.14 2174.69)" fill="#01C3A7"/>
+</g>
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1 0 0 1 3355.92 2188.39)" fill="#004D41"/>
+</g>
+</g>
+</g>
+<g id="Rectangle-3" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path23_fill" transform="matrix(-1 0 0 1 3435.83 2294.93)" fill="#00E9C7"/>
+</g>
+<g id="Rectangle-3" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path24_fill" transform="matrix(-1 0 0 1 3435.83 2331.83)" fill="#21314D"/>
+</g>
+<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask30_alpha" mask-type="alpha">
+<g id="mask-62" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask30_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3069.71 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
+<use xlink:href="#path25_stroke" transform="matrix(-1 0 0 1 3017.62 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
+<use xlink:href="#path26_stroke" transform="matrix(-1 0 0 1 2937.85 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask30_alpha)" figma:type="vector">
+<use xlink:href="#path27_stroke" transform="matrix(-1 0 0 1 2937.26 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask31_alpha" mask-type="alpha">
+<g id="mask-64" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask31_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2890.83 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2898.93 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2819.16 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask31_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2818.57 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask32_alpha" mask-type="alpha">
+<g id="mask-66" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask32_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 2710.25 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 2718.35 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 2638.58 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask32_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 2638 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Group-3" mask="url(#mask29_alpha)" figma:type="frame">
+<g id="Group" figma:type="frame">
+<mask id="mask33_alpha" mask-type="alpha">
+<g id="mask-68" figma:type="frame">
+<g id="Vector" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#FFFFFF"/>
+</g>
+</g>
+</mask>
+<g id="Rectangle-2" mask="url(#mask33_alpha)" figma:type="vector">
+<use xlink:href="#path7_fill" transform="matrix(-1 0 0 1 3248.59 2184.7)" fill="#013E34"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
+<use xlink:href="#path8_stroke" transform="matrix(-1 0 0 1 3256.69 2187.84)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
+<use xlink:href="#path9_stroke" transform="matrix(-1 0 0 1 3176.92 2183.77)" fill="#D1E2FF"/>
+</g>
+<g id="Line" opacity="0.42" mask="url(#mask33_alpha)" figma:type="vector">
+<use xlink:href="#path10_stroke" transform="matrix(-1 0 0 1 3176.34 2150.04)" fill="#D1E2FF"/>
+</g>
+</g>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path28_stroke" transform="matrix(-1 0 0 1 3016.52 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path29_stroke" transform="matrix(-1 0 0 1 3405.14 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path30_stroke" transform="matrix(-1 0 0 1 2515.45 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path31_stroke" transform="matrix(-1 0 0 1 2440.21 2318.77)" fill="#0B8E7A"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path32_stroke" transform="matrix(-1 0 0 1 3126.46 2155.67)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path33_stroke" transform="matrix(-1 0 0 1 3263.97 2274.15)" fill="#01C3A7"/>
+</g>
+<g id="Line" mask="url(#mask29_alpha)" figma:type="vector">
+<use xlink:href="#path34_stroke" transform="matrix(-1 0 0 1 3394.66 2155.67)" fill="#01C3A7"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 96.26 0L 0.000192969 0L 0.000192969 188.171L 96.26 188.171L 96.26 0Z"/>
+<path id="path1_fill" d="M 1057.66 134.921C 1077.51 155.239 1100.86 223.786 1014.54 223.786C 833.315 223.786 4.47265 223.786 4.47265 223.786C 2.00247 223.786 2.90829e-21 221.783 2.90829e-21 219.316L 2.90829e-21 33.5637C 2.90829e-21 15.027 15.0297 0.00550406 33.5679 0.01186C 33.5679 0.01186 552.168 0.210227 792.788 6.56421e-05C 907.54 -0.100161 1037.82 114.603 1057.66 134.921Z"/>
+<path id="path2_fill" d="M 1124.77 6.55566e-06L 0 6.55566e-06L 0 55.9466L 1124.77 55.9466L 1124.77 6.55566e-06Z"/>
+<path id="path3_fill" d="M 1124.77 -4.63867e-06L 0 -4.63867e-06L 0 55.9466L 1124.77 55.9466L 1124.77 -4.63867e-06Z"/>
+<path id="path4_stroke" d="M -5.18262e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -5.18262e-06 3.19685L -5.18262e-06 -3.19684ZM 847.143 3.19685C 848.908 3.19685 850.34 1.76558 850.34 7.5e-06C 850.34 -1.76556 848.908 -3.19684 847.143 -3.19684L 847.143 3.19685ZM -5.18262e-06 3.19685L 847.143 3.19685L 847.143 -3.19684L -5.18262e-06 -3.19684L -5.18262e-06 3.19685Z"/>
+<path id="path5_stroke" d="M -2.07227e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -2.07227e-06 3.19685L -2.07227e-06 -3.19684ZM 52.1815 3.19685C 53.947 3.19685 55.3783 1.76558 55.3783 7.5e-06C 55.3783 -1.76556 53.947 -3.19684 52.1815 -3.19684L 52.1815 3.19685ZM -2.07227e-06 3.19685L 52.1815 3.19685L 52.1815 -3.19684L -2.07227e-06 -3.19684L -2.07227e-06 3.19685Z"/>
+<path id="path6_stroke" d="M -9.20313e-07 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 7.5e-06C -3.19685 1.76558 -1.76557 3.19685 -9.20313e-07 3.19685L -9.20313e-07 -3.19684ZM 24.6838 3.19685C 26.4494 3.19685 27.8806 1.76558 27.8806 7.5e-06C 27.8806 -1.76556 26.4494 -3.19684 24.6838 -3.19684L 24.6838 3.19685ZM -9.20313e-07 3.19685L 24.6838 3.19685L 24.6838 -3.19684L -9.20313e-07 -3.19684L -9.20313e-07 3.19685Z"/>
+<path id="path7_fill" d="M 119.055 0L 29.0919 0C 13.0249 0 0 13.0249 0 29.0919C 0 45.1589 13.0249 58.1837 29.0919 58.1837L 119.055 58.1837C 135.122 58.1837 148.147 45.1589 148.147 29.0919C 148.147 13.0249 135.122 0 119.055 0Z"/>
+<path id="path8_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
+<path id="path9_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
+<path id="path10_stroke" d="M 4.43999 -4.26114C 2.08663 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71327 -2.08662 -6.79335 1.80901 -4.43998 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43998 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43998 4.26114Z"/>
+<path id="path11_fill" fill-rule="evenodd" d="M 1.0624e-06 -1.66069e-06L 811.3 -1.66069e-06Z"/>
+<path id="path12_stroke" d="M 1.0624e-06 -3.19685C -1.76557 -3.19685 -3.19684 -1.76557 -3.19684 -1.66069e-06C -3.19684 1.76557 -1.76557 3.19684 1.0624e-06 3.19684L 1.0624e-06 -3.19685ZM 811.3 3.19684C 813.065 3.19684 814.496 1.76557 814.496 -1.66069e-06C 814.496 -1.76557 813.065 -3.19685 811.3 -3.19685L 811.3 3.19684ZM 1.0624e-06 3.19684L 811.3 3.19684L 811.3 -3.19685L 1.0624e-06 -3.19685L 1.0624e-06 3.19684Z"/>
+<path id="path13_fill" fill-rule="evenodd" d="M -1.23047e-06 5.29199e-06L 591.312 5.29199e-06Z"/>
+<path id="path14_stroke" d="M -1.23047e-06 -3.19684C -1.76557 -3.19684 -3.19685 -1.76556 -3.19685 5.29199e-06C -3.19685 1.76557 -1.76557 3.19685 -1.23047e-06 3.19685L -1.23047e-06 -3.19684ZM 591.312 3.19685C 593.078 3.19685 594.509 1.76557 594.509 5.29199e-06C 594.509 -1.76556 593.078 -3.19684 591.312 -3.19684L 591.312 3.19685ZM -1.23047e-06 3.19685L 591.312 3.19685L 591.312 -3.19684L -1.23047e-06 -3.19684L -1.23047e-06 3.19685Z"/>
+<path id="path15_fill" fill-rule="evenodd" d="M -2.49688e-05 5.29199e-06L 56.6401 5.29199e-06Z"/>
+<path id="path16_stroke" d="M -2.49688e-05 -3.19684C -1.76559 -3.19684 -3.19687 -1.76556 -3.19687 5.29199e-06C -3.19687 1.76557 -1.76559 3.19685 -2.49688e-05 3.19685L -2.49688e-05 -3.19684ZM 56.6401 3.19685C 58.4057 3.19685 59.837 1.76557 59.837 5.29199e-06C 59.837 -1.76556 58.4057 -3.19684 56.6401 -3.19684L 56.6401 3.19685ZM -2.49688e-05 3.19685L 56.6401 3.19685L 56.6401 -3.19684L -2.49688e-05 -3.19684L -2.49688e-05 3.19685Z"/>
+<path id="path17_fill" d="M 48.3302 0L 19.0212 0C 8.51609 0 0 8.51609 0 19.0212L 0 92.8719C 0 103.377 8.51609 111.893 19.0212 111.893L 48.3302 111.893C 58.8353 111.893 67.3514 103.377 67.3514 92.8719L 67.3514 19.0212C 67.3514 8.51609 58.8353 0 48.3302 0Z"/>
+<path id="path18_fill" d="M 39.3065 0L 5.59448 0C 2.50473 0 0 2.50473 0 5.59448L 0 27.5168C 0 30.6065 2.50473 33.1112 5.59448 33.1112L 39.3065 33.1112C 42.3962 33.1112 44.9009 30.6065 44.9009 27.5168L 44.9009 5.59448C 44.9009 2.50473 42.3962 0 39.3065 0Z"/>
+<path id="path19_fill" d="M 32.3048 0L 19.0212 0C 8.51609 0 0 8.51609 0 19.0212L 0 92.8719C 0 103.377 8.51609 111.893 19.0212 111.893L 32.3048 111.893C 42.8099 111.893 51.326 103.377 51.326 92.8719L 51.326 19.0212C 51.326 8.51609 42.8099 0 32.3048 0Z"/>
+<path id="path20_fill" d="M 23.2724 0L 5.59448 0C 2.50473 0 0 2.50473 0 5.59448L 0 27.5168C 0 30.6065 2.50473 33.1112 5.59448 33.1112L 23.2724 33.1112C 26.3621 33.1112 28.8669 30.6065 28.8669 27.5168L 28.8669 5.59448C 28.8669 2.50473 26.3621 0 23.2724 0Z"/>
+<path id="path21_fill" fill-rule="evenodd" d="M 1.46345 3.57413C -0.912882 1.60019 -0.334631 -2.43525e-06 2.7577 -2.43525e-06L 171.167 -2.43525e-06C 174.259 -2.43525e-06 176.765 2.5126 176.765 5.59469L 176.765 50.3519C 176.765 53.4418 174.263 55.9466 171.179 55.9466L 70.098 55.9466C 67.013 55.9466 62.587 54.3475 60.2094 52.3724L 1.46345 3.57413Z"/>
+<path id="path22_fill" d="M 0 41.3755C 0 18.5245 18.5194 0 41.3734 0L 1022.37 0C 1045.22 0 1063.74 18.5166 1063.74 41.3755L 1063.74 215.837C 1063.74 219.995 1060.38 223.365 1056.22 223.365L 7.5245 223.365C 3.36883 223.365 0 219.99 0 215.837L 0 41.3755Z"/>
+<path id="path23_fill" fill-rule="evenodd" d="M 0 1.16211e-07L 1080.31 1.16211e-07L 1189.46 61.6097L 1189.46 99.3337L 0 99.3337L 0 1.16211e-07Z"/>
+<path id="path24_fill" d="M 1189.46 -4.63867e-06L 0 -4.63867e-06L 0 55.9466L 1189.46 55.9466L 1189.46 -4.63867e-06Z"/>
+<path id="path25_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.80901 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
+<path id="path26_stroke" d="M 4.43999 -4.26114C 2.08663 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71327 -2.08662 -6.79334 1.80901 -4.43998 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2974 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43998 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43998 4.26114Z"/>
+<path id="path27_stroke" d="M 4.43999 -4.26114C 2.08662 -6.71328 -1.809 -6.79335 -4.26114 -4.43999C -6.71328 -2.08662 -6.79335 1.80901 -4.43999 4.26114L 4.43999 -4.26114ZM 51.944 63.0116C 54.2973 65.4637 58.193 65.5438 60.6451 63.1904C 63.0973 60.8371 63.1773 56.9415 60.824 54.4893L 51.944 63.0116ZM -4.43999 4.26114L 51.944 63.0116L 60.824 54.4893L 4.43999 -4.26114L -4.43999 4.26114Z"/>
+<path id="path28_stroke" d="M 8.8457e-06 -3.19685C -1.76556 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76556 3.19684 8.8457e-06 3.19684L 8.8457e-06 -3.19685ZM 469.076 3.19684C 470.841 3.19684 472.272 1.76556 472.272 -4.99316e-06C 472.272 -1.76557 470.841 -3.19685 469.076 -3.19685L 469.076 3.19684ZM 8.8457e-06 3.19684L 469.076 3.19684L 469.076 -3.19685L 8.8457e-06 -3.19685L 8.8457e-06 3.19684Z"/>
+<path id="path29_stroke" d="M 7.76025e-07 -3.19685C -1.76557 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76557 3.19684 7.76025e-07 3.19684L 7.76025e-07 -3.19685ZM 348.873 3.19684C 350.639 3.19684 352.07 1.76556 352.07 -4.99316e-06C 352.07 -1.76557 350.639 -3.19685 348.873 -3.19685L 348.873 3.19684ZM 7.76025e-07 3.19684L 348.873 3.19684L 348.873 -3.19685L 7.76025e-07 -3.19685L 7.76025e-07 3.19684Z"/>
+<path id="path30_stroke" d="M 6.81641e-06 -3.19685C -1.76556 -3.19685 -3.19684 -1.76557 -3.19684 -4.99316e-06C -3.19684 1.76556 -1.76556 3.19684 6.81641e-06 3.19684L 6.81641e-06 -3.19685ZM 52.1815 3.19684C 53.947 3.19684 55.3783 1.76556 55.3783 -4.99316e-06C 55.3783 -1.76557 53.947 -3.19685 52.1815 -3.19685L 52.1815 3.19684ZM 6.81641e-06 3.19684L 52.1815 3.19684L 52.1815 -3.19685L 6.81641e-06 -3.19685L 6.81641e-06 3.19684Z"/>
+<path id="path31_stroke" d="M 1.16992e-05 -3.19685C -1.76556 -3.19685 -3.19683 -1.76557 -3.19683 -4.99316e-06C -3.19683 1.76556 -1.76556 3.19684 1.16992e-05 3.19684L 1.16992e-05 -3.19685ZM 52.1815 3.19684C 53.947 3.19684 55.3783 1.76556 55.3783 -4.99316e-06C 55.3783 -1.76557 53.947 -3.19685 52.1815 -3.19685L 52.1815 3.19684ZM 1.16992e-05 3.19684L 52.1815 3.19684L 52.1815 -3.19685L 1.16992e-05 -3.19685L 1.16992e-05 3.19684Z"/>
+<path id="path32_stroke" d="M 1.29199e-05 -3.19684C -1.76556 -3.19684 -3.19683 -1.76557 -3.19683 1.854e-06C -3.19683 1.76557 -1.76556 3.19685 1.29199e-05 3.19685L 1.29199e-05 -3.19684ZM 721.982 3.19685C 723.748 3.19685 725.179 1.76557 725.179 1.854e-06C 725.179 -1.76557 723.748 -3.19684 721.982 -3.19684L 721.982 3.19685ZM 1.29199e-05 3.19685L 721.982 3.19685L 721.982 -3.19684L 1.29199e-05 -3.19684L 1.29199e-05 3.19685Z"/>
+<path id="path33_stroke" d="M 5.04883e-07 -3.19684C -1.76557 -3.19684 -3.19684 -1.76556 -3.19684 5.29199e-06C -3.19684 1.76557 -1.76557 3.19685 5.04883e-07 3.19685L 5.04883e-07 -3.19684ZM 721.982 3.19685C 723.748 3.19685 725.179 1.76557 725.179 5.29199e-06C 725.179 -1.76556 723.748 -3.19684 721.982 -3.19684L 721.982 3.19685ZM 5.04883e-07 3.19685L 721.982 3.19685L 721.982 -3.19684L 5.04883e-07 -3.19684L 5.04883e-07 3.19685Z"/>
+<path id="path34_stroke" d="M 238.229 3.19685C 239.994 3.19685 241.425 1.76557 241.425 1.854e-06C 241.425 -1.76557 239.994 -3.19684 238.229 -3.19684L 238.229 3.19685ZM 2.94922e-08 -3.19684C -1.76557 -3.19684 -3.19684 -1.76557 -3.19684 1.854e-06C -3.19684 1.76557 -1.76557 3.19685 2.94922e-08 3.19685L 2.94922e-08 -3.19684ZM 238.229 -3.19684L 2.94922e-08 -3.19684L 2.94922e-08 3.19685L 238.229 3.19685L 238.229 -3.19684Z"/>
+</defs>
 </svg>
