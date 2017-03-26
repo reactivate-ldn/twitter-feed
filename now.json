@@ -1,0 +1,12 @@
+{
+  "name": "reactivate-feed",
+  "alias": "feed.reactivate.london",
+  "env": {
+    "NODE_ENV": "production",
+    "consumer_key": "ntQ7zCpadMv0vTuOshWj6bx6w",
+    "consumer_secret": "X1Lg0uHIHcKYs8WTQX01x8vOs8WSbxfFo1V285FTRmXJjpDzDQ",
+    "access_token_key": "629330603-lnc8oMNU4klNkiGFaAjKNnvfZs3Ljf9fbNpjOBlA",
+    "access_token_secret": "NGzYR3I1raW2CJVwqYntT1cFgqyi2sBdQIoYZgNeoQnFA"
+  },
+  "type": "npm"
+}

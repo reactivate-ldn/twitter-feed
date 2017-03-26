@@ -10,10 +10,7 @@ const TwitterFeed = React.createClass({
         };
     },
     addTweet: function (tweet) {
-        setTimeout(() => {
-            const tweets = [ tweet ];
-            this.setState({ tweets: tweets });
-        }, 100);
+        this.setState({ tweets: [tweet] });
     },
     componentWillMount: function () {
         tweetStream(function (tweet) {
