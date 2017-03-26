@@ -8,9 +8,6 @@ const TweetContainer = styled.div`
   text-align: left;
   line-height: 1.3;
 
-  width: 50rem;
-  max-width: 95%;
-
   display: flex;
   flex-direction: row;
   justify-content: flex-start;

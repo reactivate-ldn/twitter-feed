@@ -51,6 +51,18 @@ const mainStyles = `
       font-size: 12px;
     }
   }
+
+  @media (max-width: 900px) {
+    html, body {
+      font-size: 10px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    html, body {
+      font-size: 8px;
+    }
+  }
 `
 
 const globalStyles = resetStyles + '\n' + mainStyles
