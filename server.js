@@ -6,6 +6,10 @@ const moduleAlias = require('module-alias')
 if (!dev) {
   moduleAlias.addAlias('react', 'preact-compat')
   moduleAlias.addAlias('react-dom', 'preact-compat')
+
+  if (process.env.NOW_LOGS_KEY) {
+    require('now-logs')(process.env.NOW_LOGS_KEY)
+  }
 }
 
 const { parse } = require('url')

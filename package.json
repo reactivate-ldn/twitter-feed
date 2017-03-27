@@ -16,6 +16,7 @@
     "express": "^4.15.2",
     "module-alias": "^2.0.0",
     "next": "2.0.0-beta.40",
+    "now-logs": "^0.0.7",
     "preact": "^7.2.1",
     "preact-compat": "^3.14.3",
     "rc-animate": "^2.3.3",
