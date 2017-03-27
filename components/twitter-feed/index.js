@@ -27,7 +27,7 @@ export default class TwitterFeed extends Component {
         ...tweet,
         expired: true
       }] })
-    }, 4000)
+    }, 6000)
   }
 
   componentDidMount() {
