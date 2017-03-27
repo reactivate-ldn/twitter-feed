@@ -16,7 +16,7 @@ const TweetContainer = styled.div`
   transition: opacity 0.4s ease-in-out, transform 0.8s ease-in-out;
   will-change: transform, opacity;
 
-  opacity: 1;
+  opacity: ${props => props.expired ? 0.5 : 1};
   transform: translateY(0);
 
   &.tweet-enter, &.tweet-leave {
@@ -89,8 +89,8 @@ const styliseTweet = chainReplace(
   )]
 )
 
-const Tweet = ({ handle, text, avatar }) => (
-  <TweetContainer>
+const Tweet = ({ handle, text, avatar, expired }) => (
+  <TweetContainer expired={expired}>
     <Avatar src={avatar} />
 
     <div>
