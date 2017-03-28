@@ -1,5 +1,13 @@
-.idea/
-node_modules/
-public/
+# Node
+node_modules
+*.log
+.env
+es/
+dist/
 npm-debug.log
-env-start.sh
+_book/
+now.json
+
+# Mac
+.DS_Store
+.*/

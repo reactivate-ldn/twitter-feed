@@ -5,28 +5,28 @@
     "name": "Rahul Sharma",
     "email": "rahuldsharma@hotmail.co.uk"
   },
-  "main": "src/server/app.js",
   "scripts": {
-    "build": "webpack --progress",
-    "start": "node ."
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
-    "css-loader": "^0.26.1",
-    "express": "^4.14.1",
-    "jsx-loader": "^0.13.2",
-    "lodash": "^4.17.4",
-    "node-sass": "^4.5.0",
-    "postcss-loader": "^1.3.0",
+    "babel-plugin-styled-components": "^1.1.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "module-alias": "^2.0.0",
+    "next": "2.0.0-beta.40",
+    "now-logs": "^0.0.7",
+    "preact": "^7.2.1",
+    "preact-compat": "^3.14.3",
+    "rc-animate": "^2.3.3",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "sass-loader": "^5.0.1",
-    "socket.io": "^1.7.2",
-    "style-loader": "^0.13.1",
-    "twitter": "^1.7.0",
-    "webpack": "^2.2.1",
-    "file-loader": "^0.10.1",
-    "image-webpack-loader": "^3.2.0",
     "react-string-replace": "^0.4.0",
-    "dotenv": "^4.0.0"
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "styled-components": "2.0.0-10",
+    "twitter": "^1.7.0",
+    "webpack-bundle-analyzer": "^2.3.1"
   }
 }
